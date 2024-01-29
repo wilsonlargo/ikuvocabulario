@@ -3865,7 +3865,7 @@ async function filtrar(Leter) {
             <div class="row">
                 <div class="col-auto me-aut fw-bold">${palabra.lx}</div>
                 <div class="col-auto me-aut text-success">${palabra.ps}</div>
-                <div class="col-auto me-aut fst-italic">${palabra.dn}</div>
+                <div class="col-auto me-aut fst-italic ms-4">${palabra.dn}</div>
             </div>
             </div>      `
         elemento.appendChild(nuevaPalabra)
