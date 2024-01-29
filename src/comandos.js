@@ -145,6 +145,35 @@ async function filtrar(Leter) {
             elemento.appendChild(nuevaPalabra)
         })
     }
+}
+
+function buscarPalabra() {
+
+    let Texto = document.getElementById("cBuscar").value;
+
+    const elemento = document.getElementById("contenedorPalabras");
+    elemento.innerHTML = "";
+
+
+
+    let checkBusqueda = palabras.filter(dato => dato.lx =('akusa'));
+
+    checkBusqueda.forEach(palabra => {
+        //Creamos uncontenedor por palabra
+        const nuevaPalabra = document.createElement('div');
+        nuevaPalabra.innerHTML = `
+            <div class="mb-1">
+            <div class="row">                   
+                <div class="col-auto me-aut fw-bold">${palabra.lx.toLowerCase()}</div>
+                <div class="col-auto me-aut text-success">${palabra.ps.toLowerCase()}</div>
+                <div class="col-auto me-aut fst-italic ms-3">${palabra.dn.toLowerCase()}</div>
+            </div>
+            </div>      `
+        elemento.appendChild(nuevaPalabra)
+    })
+
+
+
 
 
 }
