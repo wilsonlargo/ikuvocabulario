@@ -1,52 +1,52 @@
 const palabras = [
     {
         "lx": "A'buru",
-        "dn": "Todo material sagrado de pagamento.",
+        "dn": "Todo material sagrado de pagamento",
         "ps": "sustantivo"
     },
     {
         "lx": "A’buru",
-        "dn": "Material tradicional.",
+        "dn": "Material tradicional",
         "ps": "sustantivo"
     },
     {
         "lx": "A'cheru",
-        "dn": "Material de piedra antigua usada para los pagamentos de los trabajos.",
+        "dn": "Material de piedra antigua usada para los pagamentos de los trabajos",
         "ps": "sustantivo"
     },
     {
         "lx": "A’chokwa",
-        "dn": "Piedra usado en el matrimonio.",
+        "dn": "Piedra usado en el matrimonio",
         "ps": "sustantivo"
     },
     {
-        "lx": "A'chokwa.",
-        "dn": "Molino de piedras \/ materia de piedra usada para triturar materiales de pagamentos.",
+        "lx": "A'chokwa",
+        "dn": "Molino de piedras \/ materia de piedra usada para triturar materiales de pagamentos",
         "ps": "sustantivo"
     },
     {
         "lx": "A’chokwʉre’ba",
-        "dn": "Nombre de laguna.",
+        "dn": "Nombre de laguna",
         "ps": "sustantivo"
     },
     {
         "lx": "A'chʉki",
-        "dn": "Piedras de color verdoso y más duro que las piedras normales y más pesado.",
+        "dn": "Piedras de color verdoso y más duro que las piedras normales y más pesado",
         "ps": "sustantivo"
     },
     {
         "lx": "A’dowri",
-        "dn": "Rocas, cascajos, gravas.",
+        "dn": "Rocas, cascajos, gravas",
         "ps": "sustantivo"
     },
     {
         "lx": "A'ko",
-        "dn": "Espacios planos antiguos acondicionados con murallas de piedras del río.",
+        "dn": "Espacios planos antiguos acondicionados con murallas de piedras del río",
         "ps": "sustantivo"
     },
     {
         "lx": "A'konʉ",
-        "dn": "Guarumo.",
+        "dn": "Guarumo",
         "ps": "sustantivo"
     },
     {
@@ -56,37 +56,37 @@ const palabras = [
     },
     {
         "lx": "A’kumʉkʉnʉ",
-        "dn": "Letras.",
+        "dn": "Letras",
         "ps": "sustantivo"
     },
     {
         "lx": "A'kunkwari",
-        "dn": "Nombre de poso sagrado en Nabusimake.",
+        "dn": "Nombre de poso sagrado en Nabusimake",
         "ps": "sustantivo"
     },
     {
         "lx": "A'kuru",
-        "dn": "Material de hacer pagamento a la enfermedad de diarrea.",
+        "dn": "Material de hacer pagamento a la enfermedad de diarrea",
         "ps": "sustantivo"
     },
     {
         "lx": "A'kʉnowkwa",
-        "dn": "Molino de piedra en forma de pilón.",
+        "dn": "Molino de piedra en forma de pilón",
         "ps": "sustantivo"
     },
     {
         "lx": "A'kʉrʉ",
-        "dn": "Insectos mensajeros parecido al grillo.",
+        "dn": "Insectos mensajeros parecido al grillo",
         "ps": "sustantivo"
     },
     {
         "lx": "A’kʉrʉ",
-        "dn": "Insecto (grillo).",
+        "dn": "Insecto (grillo)",
         "ps": "sustantivo"
     },
     {
         "lx": "A'kʉtʉ",
-        "dn": "Cuevas de piedras que tiene espacio como la casa.",
+        "dn": "Cuevas de piedras que tiene espacio como la casa",
         "ps": "sustantivo"
     },
     {
@@ -101,17 +101,17 @@ const palabras = [
     },
     {
         "lx": "A'nʉ",
-        "dn": "piedra, roca.",
+        "dn": "piedra, roca",
         "ps": "sustantivo"
     },
     {
         "lx": "A’nʉ",
-        "dn": "Piedra.",
+        "dn": "Piedra",
         "ps": "sustantivo"
     },
     {
         "lx": "A'nʉkʉnʉ",
-        "dn": "Piedras usada para soportar las ollas o calderos para cocinar.",
+        "dn": "Piedras usada para soportar las ollas o calderos para cocinar",
         "ps": "sustantivo"
     },
     {
@@ -125,43 +125,43 @@ const palabras = [
         "ps": "sustantivo"
     },
     {
-        "lx": "A'sʉtiti.",
-        "dn": "Personas que se visten con ropa de civil.",
+        "lx": "A'sʉtiti",
+        "dn": "Personas que se visten con ropa de civil",
         "ps": "sustantivo"
     },
     {
         "lx": "A'tikunsi",
-        "dn": "eco, resonancia.",
+        "dn": "eco, resonancia",
         "ps": "sustantivo"
     },
     {
         "lx": "A'timoku",
-        "dn": "abismo, precipicio.",
+        "dn": "abismo, precipicio",
         "ps": "sustantivo"
     },
     {
         "lx": "A'tinkurewa",
-        "dn": "Laguna en la nevada. Sitios de purificación de conductas del desorden carnal.",
+        "dn": "Laguna en la nevada Sitios de purificación de conductas del desorden carnal",
         "ps": "sustantivo"
     },
     {
         "lx": "A'tinkʉnʉ",
-        "dn": "Piedras alargadas que se encuentran ubicados en sitios sagrados.",
+        "dn": "Piedras alargadas que se encuentran ubicados en sitios sagrados",
         "ps": "sustantivo"
     },
     {
         "lx": "A'zakúnʉya",
-        "dn": "Vocablo que indica o señala la acción repetitiva de cocinar. Vasijas de cocinar siempre algo en especial.",
+        "dn": "Vocablo que indica o señala la acción repetitiva de cocinar Vasijas de cocinar siempre algo en especial",
         "ps": "sustantivo"
     },
     {
         "lx": "A'zaromʉ",
-        "dn": "Simulación, falsedad, disimulo.",
+        "dn": "Simulación, falsedad, disimulo",
         "ps": "sustantivo"
     },
     {
         "lx": "A’zʉkʉnʉ",
-        "dn": "Alfabeto.",
+        "dn": "Alfabeto",
         "ps": "sustantivo"
     },
     {
@@ -171,17 +171,17 @@ const palabras = [
     },
     {
         "lx": "abʉkʉnʉ",
-        "dn": "Autoridad, inspector.",
+        "dn": "Autoridad, inspector",
         "ps": "sustantivo"
     },
     {
         "lx": "Ageytʉ",
-        "dn": "granizos, pedriscos.",
+        "dn": "granizos, pedriscos",
         "ps": "sustantivo"
     },
     {
         "lx": "Agomʉ",
-        "dn": "Piedra redonda o tridimensional, usada con la piedra plana para triturar elementos de materiales de pagamentos.",
+        "dn": "Piedra redonda o tridimensional, usada con la piedra plana para triturar elementos de materiales de pagamentos",
         "ps": "sustantivo"
     },
     {
@@ -191,62 +191,62 @@ const palabras = [
     },
     {
         "lx": "Agʉmʉ",
-        "dn": "Incipiente, novato, inexperto, inmaduro, biche.",
+        "dn": "Incipiente, novato, inexperto, inmaduro, biche",
         "ps": "sustantivo"
     },
     {
         "lx": "Aju",
-        "dn": "ajo, plantas usadas para sazonar.",
+        "dn": "ajo, plantas usadas para sazonar",
         "ps": "sustantivo"
     },
     {
         "lx": "Aɉi'mʉ",
-        "dn": "insustancial, vano.",
+        "dn": "insustancial, vano",
         "ps": "sustantivo"
     },
     {
         "lx": "Aɉo'te",
-        "dn": "El último de la criatura (el menor de todo).",
+        "dn": "El último de la criatura (el menor de todo)",
         "ps": "sustantivo"
     },
     {
         "lx": "Akingwízʉna",
-        "dn": "sinónimos.",
+        "dn": "sinónimos",
         "ps": "sustantivo"
     },
     {
         "lx": "Akinzʉme'",
-        "dn": "Tiempo.",
+        "dn": "Tiempo",
         "ps": "sustantivo"
     },
     {
         "lx": "Ako'nʉ",
-        "dn": "Gwarumo.",
+        "dn": "Gwarumo",
         "ps": "sustantivo"
     },
     {
         "lx": "Ako’nʉ",
-        "dn": "Guarumo.",
+        "dn": "Guarumo",
         "ps": "sustantivo"
     },
     {
         "lx": "Ako'sa",
-        "dn": "Tronco de madera.",
+        "dn": "Tronco de madera",
         "ps": "sustantivo"
     },
     {
         "lx": "Aku",
-        "dn": "Cascabel.",
+        "dn": "Cascabel",
         "ps": "sustantivo"
     },
     {
         "lx": "Aku",
-        "dn": "Cascabel.",
+        "dn": "Cascabel",
         "ps": "sustantivo"
     },
     {
         "lx": "Akúnkʉna",
-        "dn": "Telar.",
+        "dn": "Telar",
         "ps": "sustantivo"
     },
     {
@@ -256,12 +256,12 @@ const palabras = [
     },
     {
         "lx": "Akusa",
-        "dn": "Aguja.",
+        "dn": "Aguja",
         "ps": "sustantivo"
     },
     {
         "lx": "Akʉnko",
-        "dn": "Membrana de una fruta que se encuentra en el centro y no comestible.",
+        "dn": "Membrana de una fruta que se encuentra en el centro y no comestible",
         "ps": "sustantivo"
     },
     {
@@ -271,7 +271,7 @@ const palabras = [
     },
     {
         "lx": "Amá'kʉnʉ",
-        "dn": "Especie de hormiga de color amarillo.",
+        "dn": "Especie de hormiga de color amarillo",
         "ps": "sustantivo"
     },
     {
@@ -281,7 +281,7 @@ const palabras = [
     },
     {
         "lx": "Ámizey",
-        "dn": "Nuestros (as.",
+        "dn": "Nuestros (as",
         "ps": "sustantivo"
     },
     {
@@ -291,17 +291,17 @@ const palabras = [
     },
     {
         "lx": "Aná'nuga",
-        "dn": "animal.",
+        "dn": "animal",
         "ps": "sustantivo"
     },
     {
         "lx": "Aná’nuga",
-        "dn": "Animal.",
+        "dn": "Animal",
         "ps": "sustantivo"
     },
     {
         "lx": "Anga",
-        "dn": "Cera.",
+        "dn": "Cera",
         "ps": "sustantivo"
     },
     {
@@ -310,47 +310,47 @@ const palabras = [
     },
     {
         "lx": "Angwʉ",
-        "dn": "Testículo.",
+        "dn": "Testículo",
         "ps": "sustantivo"
     },
     {
         "lx": "Ánugwe",
-        "dn": "vida, espíritu.",
+        "dn": "vida, espíritu",
         "ps": "sustantivo"
     },
     {
         "lx": "Anʉ",
-        "dn": "Alma, vida.",
+        "dn": "Alma, vida",
         "ps": "sustantivo"
     },
     {
         "lx": "Anʉsia",
-        "dn": "Membrana celular del cuerpo, conectado desde el cerebro hacia el resto el resto del cuerpo.",
+        "dn": "Membrana celular del cuerpo, conectado desde el cerebro hacia el resto el resto del cuerpo",
         "ps": "sustantivo"
     },
     {
         "lx": "Aremeriu",
-        "dn": "Remedio.",
+        "dn": "Remedio",
         "ps": "sustantivo"
     },
     {
         "lx": "Arkanjari",
-        "dn": "Nombre de un mamo que luchó por la defensa y expulsión de los ingleses en el territorio ancestral.",
+        "dn": "Nombre de un mamo que luchó por la defensa y expulsión de los ingleses en el territorio ancestral",
         "ps": "sustantivo"
     },
     {
         "lx": "Arkariw",
-        "dn": "nombre de persona varón.",
+        "dn": "nombre de persona varón",
         "ps": "sustantivo"
     },
     {
         "lx": "Arkusa",
-        "dn": "vasijas antiguas porcelanado. Sus astillas producen chispas de fuego.",
+        "dn": "vasijas antiguas porcelanado Sus astillas producen chispas de fuego",
         "ps": "sustantivo"
     },
     {
         "lx": "Armurari",
-        "dn": "Plantas arbustos parecido a la mata de guandú, usadas para curar heridas, furúnculos en fusión.",
+        "dn": "Plantas arbustos parecido a la mata de guandú, usadas para curar heridas, furúnculos en fusión",
         "ps": "sustantivo"
     },
     {
@@ -360,12 +360,12 @@ const palabras = [
     },
     {
         "lx": "Aru'si",
-        "dn": "Mombre de una mujer.",
+        "dn": "Mombre de una mujer",
         "ps": "sustantivo"
     },
     {
         "lx": "Arumakʉ",
-        "dn": "Abuelo.",
+        "dn": "Abuelo",
         "ps": "sustantivo"
     },
     {
@@ -375,12 +375,12 @@ const palabras = [
     },
     {
         "lx": "Arwawin",
-        "dn": "Nombre de un hombre.",
+        "dn": "Nombre de un hombre",
         "ps": "sustantivo"
     },
     {
         "lx": "Asambrea",
-        "dn": "Asamblea.",
+        "dn": "Asamblea",
         "ps": "sustantivo"
     },
     {
@@ -390,62 +390,62 @@ const palabras = [
     },
     {
         "lx": "Asenji",
-        "dn": "Material de pagamento parecido la Tuma.",
+        "dn": "Material de pagamento parecido la Tuma",
         "ps": "sustantivo"
     },
     {
         "lx": "Aseríkuney",
-        "dn": "Nombre de un hombre.",
+        "dn": "Nombre de un hombre",
         "ps": "sustantivo"
     },
     {
         "lx": "Asoti",
-        "dn": "Azote, látigo.",
+        "dn": "Azote, látigo",
         "ps": "sustantivo"
     },
     {
         "lx": "Atekʉ",
-        "dn": "Último, postrimero.",
+        "dn": "Último, postrimero",
         "ps": "sustantivo"
     },
     {
         "lx": "Ati",
-        "dn": "Mujer, madre.",
+        "dn": "Mujer, madre",
         "ps": "sustantivo"
     },
     {
         "lx": "Ati'",
-        "dn": "Granos o nacidos en la piel.",
+        "dn": "Granos o nacidos en la piel",
         "ps": "sustantivo"
     },
     {
         "lx": "Atin",
-        "dn": "Bilis.",
+        "dn": "Bilis",
         "ps": "sustantivo"
     },
     {
         "lx": "Awágʉmʉ",
-        "dn": "Linaje, quinta generación.",
+        "dn": "Linaje, quinta generación",
         "ps": "sustantivo"
     },
     {
         "lx": "Awakati",
-        "dn": "Aguacate.",
+        "dn": "Aguacate",
         "ps": "sustantivo"
     },
     {
         "lx": "Awikʉ",
-        "dn": "Lucero (estrella).",
+        "dn": "Lucero (estrella)",
         "ps": "sustantivo"
     },
     {
         "lx": "Awinzeyru",
-        "dn": "Mosquito.",
+        "dn": "Mosquito",
         "ps": "sustantivo"
     },
     {
         "lx": "Awʉ’",
-        "dn": "Yerno, Nuera.",
+        "dn": "Yerno, Nuera",
         "ps": "sustantivo"
     },
     {
@@ -455,7 +455,7 @@ const palabras = [
     },
     {
         "lx": "Ayugungu",
-        "dn": "libélula.",
+        "dn": "libélula",
         "ps": "sustantivo"
     },
     {
@@ -470,7 +470,7 @@ const palabras = [
     },
     {
         "lx": "Ayukʉrawa",
-        "dn": "Nombre del cerro dueño de la coca.",
+        "dn": "Nombre del cerro dueño de la coca",
         "ps": "sustantivo"
     },
     {
@@ -480,12 +480,12 @@ const palabras = [
     },
     {
         "lx": "Ayunʉ",
-        "dn": "Hayo silvestre parecido a la coca.",
+        "dn": "Hayo silvestre parecido a la coca",
         "ps": "sustantivo"
     },
     {
         "lx": "Azachʉ",
-        "dn": "Hoja de las plantas.",
+        "dn": "Hoja de las plantas",
         "ps": "sustantivo"
     },
     {
@@ -500,7 +500,7 @@ const palabras = [
     },
     {
         "lx": "Bechʉnkowru",
-        "dn": "Tallo de Mata de maguey seco.",
+        "dn": "Tallo de Mata de maguey seco",
         "ps": "sustantivo"
     },
     {
@@ -510,42 +510,42 @@ const palabras = [
     },
     {
         "lx": "Bichu",
-        "dn": "Animal de monte parecido al cerdo.",
+        "dn": "Animal de monte parecido al cerdo",
         "ps": "sustantivo"
     },
     {
         "lx": "Bichʉn",
-        "dn": "higuito.",
+        "dn": "higuito",
         "ps": "sustantivo"
     },
     {
         "lx": "Binʉ",
-        "dn": "Pájaro carpintero.",
+        "dn": "Pájaro carpintero",
         "ps": "sustantivo"
     },
     {
         "lx": "Bo’",
-        "dn": "Hamaca.",
+        "dn": "Hamaca",
         "ps": "sustantivo"
     },
     {
         "lx": "Bownʉ",
-        "dn": "Bobo, tonto.",
+        "dn": "Bobo, tonto",
         "ps": "sustantivo"
     },
     {
         "lx": "Bozʉria",
-        "dn": "¨Agua¨ de la lluvia (que hace sequia).",
+        "dn": "¨Agua¨ de la lluvia (que hace sequia)",
         "ps": "sustantivo"
     },
     {
         "lx": "Buchi",
-        "dn": "Mejilla.",
+        "dn": "Mejilla",
         "ps": "sustantivo"
     },
     {
         "lx": "Búgiri",
-        "dn": "insectos descomponedores. \/ Hormiga olor a excremento humano.",
+        "dn": "insectos descomponedores \/ Hormiga olor a excremento humano",
         "ps": "sustantivo"
     },
     {
@@ -555,32 +555,32 @@ const palabras = [
     },
     {
         "lx": "Bunekʉn",
-        "dn": "Tierra (blanca).",
+        "dn": "Tierra (blanca)",
         "ps": "sustantivo"
     },
     {
         "lx": "Buní’gʉmʉ",
-        "dn": "Problema, dificultad.",
+        "dn": "Problema, dificultad",
         "ps": "sustantivo"
     },
     {
         "lx": "Bunisinʉ",
-        "dn": "Tendones.",
+        "dn": "Tendones",
         "ps": "sustantivo"
     },
     {
         "lx": "Bunɉwageka",
-        "dn": "Nombre de un pueblo.",
+        "dn": "Nombre de un pueblo",
         "ps": "sustantivo"
     },
     {
         "lx": "Bunku",
-        "dn": "Búho.",
+        "dn": "Búho",
         "ps": "sustantivo"
     },
     {
         "lx": "Búnkʉtʉ",
-        "dn": "Nombre de un cerro en la Región de Nabusimake.",
+        "dn": "Nombre de un cerro en la Región de Nabusimake",
         "ps": "sustantivo"
     },
     {
@@ -590,12 +590,12 @@ const palabras = [
     },
     {
         "lx": "Bunkwakwiti",
-        "dn": "Materiales tradicionales de color blanco.",
+        "dn": "Materiales tradicionales de color blanco",
         "ps": "sustantivo"
     },
     {
         "lx": "Bunkweyka",
-        "dn": "Material preparado por los mamos para realizar consultas espirituales.",
+        "dn": "Material preparado por los mamos para realizar consultas espirituales",
         "ps": "sustantivo"
     },
     {
@@ -625,7 +625,7 @@ const palabras = [
     },
     {
         "lx": "Busingekʉn",
-        "dn": "Nombre de un pueblo.",
+        "dn": "Nombre de un pueblo",
         "ps": "sustantivo"
     },
     {
@@ -640,7 +640,7 @@ const palabras = [
     },
     {
         "lx": "Buture",
-        "dn": "águila, ave de presa.",
+        "dn": "águila, ave de presa",
         "ps": "sustantivo"
     },
     {
@@ -675,7 +675,7 @@ const palabras = [
     },
     {
         "lx": "Chokwʉ",
-        "dn": "Totumo, Tasa de totumo.",
+        "dn": "Totumo, Tasa de totumo",
         "ps": "sustantivo"
     },
     {
@@ -705,7 +705,7 @@ const palabras = [
     },
     {
         "lx": "Dengi",
-        "dn": "Dengue, resequedad en la piel.",
+        "dn": "Dengue, resequedad en la piel",
         "ps": "sustantivo"
     },
     {
@@ -745,7 +745,7 @@ const palabras = [
     },
     {
         "lx": "Diwidiwi",
-        "dn": "Árbol frondoso de clima caliente.",
+        "dn": "Árbol frondoso de clima caliente",
         "ps": "sustantivo"
     },
     {
@@ -755,7 +755,7 @@ const palabras = [
     },
     {
         "lx": "Do’mʉriwa",
-        "dn": "Mar donde hacen pagamento.",
+        "dn": "Mar donde hacen pagamento",
         "ps": "sustantivo"
     },
     {
@@ -790,7 +790,7 @@ const palabras = [
     },
     {
         "lx": "Eysabua",
-        "dn": "Espíritu del difunto invocado por los mamos en la mortuoria.",
+        "dn": "Espíritu del difunto invocado por los mamos en la mortuoria",
         "ps": "sustantivo"
     },
     {
@@ -800,7 +800,7 @@ const palabras = [
     },
     {
         "lx": "Eysakʉwʉdey",
-        "dn": "Piedra de color gris claro, usada para los pagamentos en la mortuorias.",
+        "dn": "Piedra de color gris claro, usada para los pagamentos en la mortuorias",
         "ps": "sustantivo"
     },
     {
@@ -810,7 +810,7 @@ const palabras = [
     },
     {
         "lx": "Eytiwʉ",
-        "dn": "Dícese de todas las cosas antiguas existente en el universo.",
+        "dn": "Dícese de todas las cosas antiguas existente en el universo",
         "ps": "sustantivo"
     },
     {
@@ -830,7 +830,7 @@ const palabras = [
     },
     {
         "lx": "Ga",
-        "dn": "Desecho, excremento.",
+        "dn": "Desecho, excremento",
         "ps": "sustantivo"
     },
     {
@@ -885,7 +885,7 @@ const palabras = [
     },
     {
         "lx": "Gama’ko",
-        "dn": "Rana, sapos pequeños de tierra fría.",
+        "dn": "Rana, sapos pequeños de tierra fría",
         "ps": "sustantivo"
     },
     {
@@ -915,7 +915,7 @@ const palabras = [
     },
     {
         "lx": "Gazu",
-        "dn": "El que ensucia demasiado.",
+        "dn": "El que ensucia demasiado",
         "ps": "sustantivo"
     },
     {
@@ -940,7 +940,7 @@ const palabras = [
     },
     {
         "lx": "Gi’gi",
-        "dn": "Sonajas de cascabel.",
+        "dn": "Sonajas de cascabel",
         "ps": "sustantivo"
     },
     {
@@ -970,7 +970,7 @@ const palabras = [
     },
     {
         "lx": "Gun",
-        "dn": "Nombre de material tradicional color rojo.",
+        "dn": "Nombre de material tradicional color rojo",
         "ps": "sustantivo"
     },
     {
@@ -985,62 +985,62 @@ const palabras = [
     },
     {
         "lx": "Gunʉ",
-        "dn": "Mano.",
+        "dn": "Mano",
         "ps": "sustantivo"
     },
     {
         "lx": "Gunʉ zʉwa",
-        "dn": "Dedos.",
+        "dn": "Dedos",
         "ps": "sustantivo"
     },
     {
         "lx": "Gʉcha’",
-        "dn": "Cuerpo.",
+        "dn": "Cuerpo",
         "ps": "sustantivo"
     },
     {
         "lx": "Gʉchʉ",
-        "dn": "Carne.",
+        "dn": "Carne",
         "ps": "sustantivo"
     },
     {
         "lx": "Gʉmʉsinʉ",
-        "dn": "Niño.",
+        "dn": "Niño",
         "ps": "sustantivo"
     },
     {
         "lx": "Gʉnsin",
-        "dn": "Izquierda.",
+        "dn": "Izquierda",
         "ps": "sustantivo"
     },
     {
         "lx": "Gʉrʉpati",
-        "dn": "Garrapatas.",
+        "dn": "Garrapatas",
         "ps": "sustantivo"
     },
     {
         "lx": "Gwati",
-        "dn": "Mujer, tía.",
+        "dn": "Mujer, tía",
         "ps": "sustantivo"
     },
     {
         "lx": "Gweru gweru",
-        "dn": "Esófago.",
+        "dn": "Esófago",
         "ps": "sustantivo"
     },
     {
         "lx": "Gwi’",
-        "dn": "(Pared tejido con caña brava.)",
+        "dn": "(Pared tejido con caña brava)",
         "ps": "sustantivo"
     },
     {
         "lx": "Gwia",
-        "dn": "Hermano.",
+        "dn": "Hermano",
         "ps": "sustantivo"
     },
     {
         "lx": "Gwiáchʉnʉ",
-        "dn": "piedras grandes.",
+        "dn": "piedras grandes",
         "ps": "sustantivo"
     },
     {
@@ -1115,7 +1115,7 @@ const palabras = [
     },
     {
         "lx": "Inarwa",
-        "dn": "Nombre del cerro.",
+        "dn": "Nombre del cerro",
         "ps": "sustantivo"
     },
     {
@@ -1125,17 +1125,17 @@ const palabras = [
     },
     {
         "lx": "Inɉokwʉ",
-        "dn": "Maíz cocido con cascaras.",
+        "dn": "Maíz cocido con cascaras",
         "ps": "sustantivo"
     },
     {
         "lx": "Inkanʉ",
-        "dn": "Caña lata.",
+        "dn": "Caña lata",
         "ps": "sustantivo"
     },
     {
         "lx": "Inpʉsi",
-        "dn": "harina de concha.",
+        "dn": "harina de concha",
         "ps": "sustantivo"
     },
     {
@@ -1145,22 +1145,22 @@ const palabras = [
     },
     {
         "lx": "Inʉki",
-        "dn": "Cosas o algo.",
+        "dn": "Cosas o algo",
         "ps": "sustantivo"
     },
     {
         "lx": "Irokwʉ",
-        "dn": "Yuca.",
+        "dn": "Yuca",
         "ps": "sustantivo"
     },
     {
         "lx": "Irʉrʉ",
-        "dn": "Rasquiña.",
+        "dn": "Rasquiña",
         "ps": "sustantivo"
     },
     {
         "lx": "Isʉ",
-        "dn": "Hormiga.",
+        "dn": "Hormiga",
         "ps": "sustantivo"
     },
     {
@@ -1175,7 +1175,7 @@ const palabras = [
     },
     {
         "lx": "Isʉrwa",
-        "dn": "Nombre de un pueblo.",
+        "dn": "Nombre de un pueblo",
         "ps": "sustantivo"
     },
     {
@@ -1185,7 +1185,7 @@ const palabras = [
     },
     {
         "lx": "Iwinsa",
-        "dn": "Nacidos en la piel.",
+        "dn": "Nacidos en la piel",
         "ps": "sustantivo"
     },
     {
@@ -1230,7 +1230,7 @@ const palabras = [
     },
     {
         "lx": "Jimain",
-        "dn": "Nombre de lugar – pueblo.",
+        "dn": "Nombre de lugar – pueblo",
         "ps": "sustantivo"
     },
     {
@@ -1240,12 +1240,12 @@ const palabras = [
     },
     {
         "lx": "Jomʉ",
-        "dn": "Moco, secreción.",
+        "dn": "Moco, secreción",
         "ps": "sustantivo"
     },
     {
         "lx": "Jorojoro",
-        "dn": "banano seco.",
+        "dn": "banano seco",
         "ps": "sustantivo"
     },
     {
@@ -1285,22 +1285,22 @@ const palabras = [
     },
     {
         "lx": "Ɉekʉntanu",
-        "dn": "Rana saltadora.",
+        "dn": "Rana saltadora",
         "ps": "sustantivo"
     },
     {
         "lx": "Ɉemingoro",
-        "dn": "Gerri Lacustris, insectos que camina sobre el agua.",
+        "dn": "Gerri Lacustris, insectos que camina sobre el agua",
         "ps": "sustantivo"
     },
     {
         "lx": "Ɉengo",
-        "dn": "trozos de macera que arrastran el rio o arroyuelos.",
+        "dn": "trozos de macera que arrastran el rio o arroyuelos",
         "ps": "sustantivo"
     },
     {
         "lx": "Ɉesagwe",
-        "dn": "Madre del agua.",
+        "dn": "Madre del agua",
         "ps": "sustantivo"
     },
     {
@@ -1340,7 +1340,7 @@ const palabras = [
     },
     {
         "lx": "Ɉukarʉ",
-        "dn": "Paloma silvestre color mona.",
+        "dn": "Paloma silvestre color mona",
         "ps": "sustantivo"
     },
     {
@@ -1410,7 +1410,7 @@ const palabras = [
     },
     {
         "lx": "Ka’dámiru",
-        "dn": "Parte de una pared de bareques.",
+        "dn": "Parte de una pared de bareques",
         "ps": "sustantivo"
     },
     {
@@ -1420,7 +1420,7 @@ const palabras = [
     },
     {
         "lx": "Ka’icha",
-        "dn": "Frijol de tierra, sus frutos se dan dentro de la tierra.",
+        "dn": "Frijol de tierra, sus frutos se dan dentro de la tierra",
         "ps": "sustantivo"
     },
     {
@@ -1485,7 +1485,7 @@ const palabras = [
     },
     {
         "lx": "Karora",
-        "dn": "Esterilla para mulas.",
+        "dn": "Esterilla para mulas",
         "ps": "sustantivo"
     },
     {
@@ -1515,7 +1515,7 @@ const palabras = [
     },
     {
         "lx": "Kisiu",
-        "dn": "Pedazo de tabla que soporta y sostiene una puerta arriba y abajo.",
+        "dn": "Pedazo de tabla que soporta y sostiene una puerta arriba y abajo",
         "ps": "sustantivo"
     },
     {
@@ -1585,7 +1585,7 @@ const palabras = [
     },
     {
         "lx": "Kúnchuru",
-        "dn": "Planta que reemplaza a la coca para el uso del poporo.",
+        "dn": "Planta que reemplaza a la coca para el uso del poporo",
         "ps": "sustantivo"
     },
     {
@@ -1600,7 +1600,7 @@ const palabras = [
     },
     {
         "lx": "Kúnzomʉ",
-        "dn": "Corteza.",
+        "dn": "Corteza",
         "ps": "sustantivo"
     },
     {
@@ -1640,7 +1640,7 @@ const palabras = [
     },
     {
         "lx": "Kʉginwʉ",
-        "dn": "Especie de yuca amarga.",
+        "dn": "Especie de yuca amarga",
         "ps": "sustantivo"
     },
     {
@@ -1660,372 +1660,372 @@ const palabras = [
     },
     {
         "lx": "Kʉkʉria",
-        "dn": "Saliva.",
+        "dn": "Saliva",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉmʉ",
-        "dn": "Sueño.",
+        "dn": "Sueño",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉn ziti",
-        "dn": "Árbol de clima frio.",
+        "dn": "Árbol de clima frio",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnbiru",
-        "dn": "Garabato.",
+        "dn": "Garabato",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉneyru",
-        "dn": "Guabino.",
+        "dn": "Guabino",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnkawʉrwa",
-        "dn": "Nombre de un pueblo.",
+        "dn": "Nombre de un pueblo",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnko’sa",
-        "dn": "Tronco de madera.",
+        "dn": "Tronco de madera",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnkurwa",
-        "dn": "Casa tradicional, templo sagrado.",
+        "dn": "Casa tradicional, templo sagrado",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnkwakwiti",
-        "dn": "Material que le hacen pagamento a los árboles.",
+        "dn": "Material que le hacen pagamento a los árboles",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnkwʉ",
-        "dn": "Kankwamo.",
+        "dn": "Kankwamo",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnsameyru",
-        "dn": "Lagarto.",
+        "dn": "Lagarto",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnsia",
-        "dn": "Bejuco.",
+        "dn": "Bejuco",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnsirigakʉ",
-        "dn": "Canilla.",
+        "dn": "Canilla",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnturowru",
-        "dn": "Gallo.",
+        "dn": "Gallo",
         "ps": "sustantivo"
     },
     {
         "lx": "kʉnzorina",
-        "dn": "Paleta de menear, cuchara de palo.",
+        "dn": "Paleta de menear, cuchara de palo",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnzʉwa",
-        "dn": "semillas, pepitas, frutas.",
+        "dn": "semillas, pepitas, frutas",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉnzʉweje",
-        "dn": "Gusano de palo.",
+        "dn": "Gusano de palo",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉñʉ",
-        "dn": "Caña.",
+        "dn": "Caña",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉramʉ",
-        "dn": "Frio, resfriado.",
+        "dn": "Frio, resfriado",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉtʉ",
-        "dn": "Pie.",
+        "dn": "Pie",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉwikʉ",
-        "dn": "Grado, año.",
+        "dn": "Grado, año",
         "ps": "sustantivo"
     },
     {
         "lx": "Kʉwíkʉnʉ",
-        "dn": "Punto (.)",
+        "dn": "Punto ()",
         "ps": "sustantivo"
     },
     {
         "lx": "Kwi’",
-        "dn": "Ala-hombro.",
+        "dn": "Ala-hombro",
         "ps": "sustantivo"
     },
     {
         "lx": "Kwi’darʉ",
-        "dn": "Zancudo.",
+        "dn": "Zancudo",
         "ps": "sustantivo"
     },
     {
         "lx": "Kwi’ɉumaka",
-        "dn": "Ardilla.",
+        "dn": "Ardilla",
         "ps": "sustantivo"
     },
     {
         "lx": "Kwi’ma",
-        "dn": "joven.",
+        "dn": "joven",
         "ps": "sustantivo"
     },
     {
         "lx": "Kwi’magwe",
-        "dn": "Relámpago.",
+        "dn": "Relámpago",
         "ps": "sustantivo"
     },
     {
         "lx": "kwíkʉto",
-        "dn": "Semilla que se utiliza como collar.",
+        "dn": "Semilla que se utiliza como collar",
         "ps": "sustantivo"
     },
     {
         "lx": "Kwimi",
-        "dn": "Persona que no consume comida con sal.",
+        "dn": "Persona que no consume comida con sal",
         "ps": "sustantivo"
     },
     {
         "lx": "Kwímʉkʉnʉ",
-        "dn": "Cerro (alto).",
+        "dn": "Cerro (alto)",
         "ps": "sustantivo"
     },
     {
         "lx": "Kwintro",
-        "dn": "Mariposa.",
+        "dn": "Mariposa",
         "ps": "sustantivo"
     },
     {
         "lx": "Kwiromʉ",
-        "dn": "Loro.",
+        "dn": "Loro",
         "ps": "sustantivo"
     },
     {
         "lx": "Kwiwi",
-        "dn": "Pajarito mensajeros.",
+        "dn": "Pajarito mensajeros",
         "ps": "sustantivo"
     },
     {
         "lx": "Ma’keywa",
-        "dn": "Cuatro.",
+        "dn": "Cuatro",
         "ps": "sustantivo"
     },
     {
         "lx": "Ma’kinbiru",
-        "dn": "Comilla.",
+        "dn": "Comilla",
         "ps": "sustantivo"
     },
     {
         "lx": "Maku",
-        "dn": "Mico.",
+        "dn": "Mico",
         "ps": "sustantivo"
     },
     {
         "lx": "Makuku",
-        "dn": "Culebra mapaná o jergón.",
+        "dn": "Culebra mapaná o jergón",
         "ps": "sustantivo"
     },
     {
         "lx": "Makuruma",
-        "dn": "Regalos, obsequios.",
+        "dn": "Regalos, obsequios",
         "ps": "sustantivo"
     },
     {
         "lx": "Mákʉrʉ",
-        "dn": "Gallinazo, golero.",
+        "dn": "Gallinazo, golero",
         "ps": "sustantivo"
     },
     {
         "lx": "Mamón",
-        "dn": "Mamón.",
+        "dn": "Mamón",
         "ps": "sustantivo"
     },
     {
         "lx": "Mamʉ",
-        "dn": "Mamo.",
+        "dn": "Mamo",
         "ps": "sustantivo"
     },
     {
         "lx": "Mandarina",
-        "dn": "Mandarina.",
+        "dn": "Mandarina",
         "ps": "sustantivo"
     },
     {
         "lx": "Mangi",
-        "dn": "Avispa carnicera.",
+        "dn": "Avispa carnicera",
         "ps": "sustantivo"
     },
     {
         "lx": "Mangu",
-        "dn": "Mango.",
+        "dn": "Mango",
         "ps": "sustantivo"
     },
     {
         "lx": "Maranga",
-        "dn": "Malanga.",
+        "dn": "Malanga",
         "ps": "sustantivo"
     },
     {
         "lx": "Mari",
-        "dn": "Hambre.",
+        "dn": "Hambre",
         "ps": "sustantivo"
     },
     {
         "lx": "Maritu",
-        "dn": "Nombre de una clase de guineo – banano.",
+        "dn": "Nombre de una clase de guineo – banano",
         "ps": "sustantivo"
     },
     {
         "lx": "Markwiwʉ",
-        "dn": "Frijol criollo.",
+        "dn": "Frijol criollo",
         "ps": "sustantivo"
     },
     {
         "lx": "Marneykʉ",
-        "dn": "En ayuna.",
+        "dn": "En ayuna",
         "ps": "sustantivo"
     },
     {
         "lx": "Martica",
-        "dn": "Animal mamífero familia de micos.",
+        "dn": "Animal mamífero familia de micos",
         "ps": "sustantivo"
     },
     {
         "lx": "Masite",
-        "dn": "Machete.",
+        "dn": "Machete",
         "ps": "sustantivo"
     },
     {
         "lx": "Matuturi",
-        "dn": "Poporo alargados de Kogui.",
+        "dn": "Poporo alargados de Kogui",
         "ps": "sustantivo"
     },
     {
         "lx": "Mawʉnsiro",
-        "dn": "Lombriz.",
+        "dn": "Lombriz",
         "ps": "sustantivo"
     },
     {
         "lx": "Mawʉría",
-        "dn": "Lagrima.",
+        "dn": "Lagrima",
         "ps": "sustantivo"
     },
     {
         "lx": "Máykʉnʉ",
-        "dn": "Tres.",
+        "dn": "Tres",
         "ps": "sustantivo"
     },
     {
         "lx": "Mewʉ",
-        "dn": "Guáimaro.",
+        "dn": "Guáimaro",
         "ps": "sustantivo"
     },
     {
         "lx": "Meyku",
-        "dn": "Abejorro.",
+        "dn": "Abejorro",
         "ps": "sustantivo"
     },
     {
         "lx": "Meynakʉ",
-        "dn": "Congorocho, especie de ciempiés, Bastón que usa para sembrar semillas.",
+        "dn": "Congorocho, especie de ciempiés, Bastón que usa para sembrar semillas",
         "ps": "sustantivo"
     },
     {
         "lx": "Meynʉn",
-        "dn": "Cañada, caños.",
+        "dn": "Cañada, caños",
         "ps": "sustantivo"
     },
     {
         "lx": "Mi’",
-        "dn": "Batata o patata.",
+        "dn": "Batata o patata",
         "ps": "sustantivo"
     },
     {
         "lx": "Minsa 'gwi",
-        "dn": "Primero.",
+        "dn": "Primero",
         "ps": "sustantivo"
     },
     {
         "lx": "Minsin",
-        "dn": "Madrugada.",
+        "dn": "Madrugada",
         "ps": "sustantivo"
     },
     {
         "lx": "Miru",
-        "dn": "Bisnieto.",
+        "dn": "Bisnieto",
         "ps": "sustantivo"
     },
     {
         "lx": "Misi",
-        "dn": "Gato.",
+        "dn": "Gato",
         "ps": "sustantivo"
     },
     {
         "lx": "Misikindarʉ",
-        "dn": "Especie de ciempiés que lupa sangre y se mueve con rapidez.",
+        "dn": "Especie de ciempiés que lupa sangre y se mueve con rapidez",
         "ps": "sustantivo"
     },
     {
         "lx": "Misunhʉ",
-        "dn": "Nariz.",
+        "dn": "Nariz",
         "ps": "sustantivo"
     },
     {
         "lx": "Mo'chin",
-        "dn": "Nombre de persona mujer.",
+        "dn": "Nombre de persona mujer",
         "ps": "sustantivo"
     },
     {
         "lx": "Mochʉ",
-        "dn": "Rocío.",
+        "dn": "Rocío",
         "ps": "sustantivo"
     },
     {
         "lx": "Momʉ",
-        "dn": "Helecho.",
+        "dn": "Helecho",
         "ps": "sustantivo"
     },
     {
         "lx": "Mónikʉnʉ",
-        "dn": "Estrella (los tres reyes magos).",
+        "dn": "Estrella (los tres reyes magos)",
         "ps": "sustantivo"
     },
     {
         "lx": "Moru",
-        "dn": "Espíritu maligno.",
+        "dn": "Espíritu maligno",
         "ps": "sustantivo"
     },
     {
         "lx": "Mowga",
-        "dn": "Dos.",
+        "dn": "Dos",
         "ps": "sustantivo"
     },
     {
         "lx": "Mowgame’",
-        "dn": "Duda.",
+        "dn": "Duda",
         "ps": "sustantivo"
     },
     {
         "lx": "Mowti",
-        "dn": "Sobrina de una mujer.",
+        "dn": "Sobrina de una mujer",
         "ps": "sustantivo"
     },
     {
@@ -2035,317 +2035,317 @@ const palabras = [
     },
     {
         "lx": "Mu'ba",
-        "dn": "En dos partes.",
+        "dn": "En dos partes",
         "ps": "sustantivo"
     },
     {
         "lx": "Muchuru",
-        "dn": "Especie de caracucha.",
+        "dn": "Especie de caracucha",
         "ps": "sustantivo"
     },
     {
         "lx": "Múnchiki",
-        "dn": "Olla de barro usada para pulverizar conchitas de mar.",
+        "dn": "Olla de barro usada para pulverizar conchitas de mar",
         "ps": "sustantivo"
     },
     {
         "lx": "Múndiwa",
-        "dn": "Nombre de laguna en la nevada.",
+        "dn": "Nombre de laguna en la nevada",
         "ps": "sustantivo"
     },
     {
         "lx": "Múngʉnʉ",
-        "dn": "Bigote, bozo.",
+        "dn": "Bigote, bozo",
         "ps": "sustantivo"
     },
     {
         "lx": "Murari",
-        "dn": "Piedras de afilar.",
+        "dn": "Piedras de afilar",
         "ps": "sustantivo"
     },
     {
         "lx": "Murita",
-        "dn": "Árbol que sirve para teñir color amarillo.",
+        "dn": "Árbol que sirve para teñir color amarillo",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉkuri",
-        "dn": "Especie de piña silvestre de tierra caliente.",
+        "dn": "Especie de piña silvestre de tierra caliente",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉkuriwa",
-        "dn": "Océano, mar.",
+        "dn": "Océano, mar",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉkusa",
-        "dn": "Insecto especie de escarabajos.",
+        "dn": "Insecto especie de escarabajos",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉkʉ",
-        "dn": "Ropa.",
+        "dn": "Ropa",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉkʉdiwrunna",
-        "dn": "Material de coca usada para hacer pagamentos.",
+        "dn": "Material de coca usada para hacer pagamentos",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉkʉtiw",
-        "dn": "Especie de pastos malezas.",
+        "dn": "Especie de pastos malezas",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉna’",
-        "dn": "Ombligo.",
+        "dn": "Ombligo",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉnɉʉ'",
-        "dn": "Tiempo de lluvias más de una semana que se repite cada diez meses.",
+        "dn": "Tiempo de lluvias más de una semana que se repite cada diez meses",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉnkwinʉ",
-        "dn": "Especie de planta para teñir de color anaranjado.",
+        "dn": "Especie de planta para teñir de color anaranjado",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉnkwiti",
-        "dn": "Especie de piedras sagradas de color rojos usada en los pagamentos.",
+        "dn": "Especie de piedras sagradas de color rojos usada en los pagamentos",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉnkwʉ",
-        "dn": "Araña.",
+        "dn": "Araña",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉnsanʉ",
-        "dn": "Variedad de Guineo.",
+        "dn": "Variedad de Guineo",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉnséymʉke",
-        "dn": "Etapa del desarrollo de la mujer.",
+        "dn": "Etapa del desarrollo de la mujer",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉntari",
-        "dn": "especie de planta jobo.",
+        "dn": "especie de planta jobo",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉnʉsinʉ",
-        "dn": "Fuerza especial que sostiene el ciclo de la concepción de un gene hasta nacer la criatura humana.",
+        "dn": "Fuerza especial que sostiene el ciclo de la concepción de un gene hasta nacer la criatura humana",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉñʉ",
-        "dn": "Nube.",
+        "dn": "Nube",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉrawʉ",
-        "dn": "Guacamaya.",
+        "dn": "Guacamaya",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉrkonʉ",
-        "dn": "Tortuga.",
+        "dn": "Tortuga",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉro'chʉ",
-        "dn": "Planta parecido al guandú usada para cocinar y colorear en amarrillo las conchitas de mar en proceso de tostado para el poporo.",
+        "dn": "Planta parecido al guandú usada para cocinar y colorear en amarrillo las conchitas de mar en proceso de tostado para el poporo",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉro’tʉ",
-        "dn": "Palmas de tierra fría.",
+        "dn": "Palmas de tierra fría",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉrundwa",
-        "dn": "Árbol sagrado.",
+        "dn": "Árbol sagrado",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉrunsama",
-        "dn": "material para la consulta.",
+        "dn": "material para la consulta",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉssi",
-        "dn": "Pulga.",
+        "dn": "Pulga",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉtari",
-        "dn": "Olla de barro de tamaño grande usada en ceremonias importantes.",
+        "dn": "Olla de barro de tamaño grande usada en ceremonias importantes",
         "ps": "sustantivo"
     },
     {
         "lx": "Mʉtʉrʉ",
-        "dn": "Lobo –lagarto.",
+        "dn": "Lobo –lagarto",
         "ps": "sustantivo"
     },
     {
         "lx": "Nabusímake",
-        "dn": "Nombre de un pueblo capital del pueblo arhuaco.",
+        "dn": "Nombre de un pueblo capital del pueblo arhuaco",
         "ps": "sustantivo"
     },
     {
         "lx": "Najákʉnʉ",
-        "dn": "Gavilán nocturno.",
+        "dn": "Gavilán nocturno",
         "ps": "sustantivo"
     },
     {
         "lx": "Najunna",
-        "dn": "Persona existente anterior a la aparición del hombre dueño de las hierbas.",
+        "dn": "Persona existente anterior a la aparición del hombre dueño de las hierbas",
         "ps": "sustantivo"
     },
     {
         "lx": "Namowri",
-        "dn": "Congorocho, milpiés.",
+        "dn": "Congorocho, milpiés",
         "ps": "sustantivo"
     },
     {
         "lx": "Naranja",
-        "dn": "Naranja.",
+        "dn": "Naranja",
         "ps": "sustantivo"
     },
     {
         "lx": "Naringʉmʉ",
-        "dn": "Nombre de persona género masculino.",
+        "dn": "Nombre de persona género masculino",
         "ps": "sustantivo"
     },
     {
         "lx": "Nárkʉn",
-        "dn": "Nombre de persona género femenino.",
+        "dn": "Nombre de persona género femenino",
         "ps": "sustantivo"
     },
     {
         "lx": "Nárʉkʉnʉ",
-        "dn": "Débil, bobo, sin ánimo.",
+        "dn": "Débil, bobo, sin ánimo",
         "ps": "sustantivo"
     },
     {
         "lx": "Nasi",
-        "dn": "Necesitado, pobre.",
+        "dn": "Necesitado, pobre",
         "ps": "sustantivo"
     },
     {
         "lx": "Nawa’Ka",
-        "dn": "Sitio sagrado, lugar acondicionado con templo para hacer distintos. pagamentos.",
+        "dn": "Sitio sagrado, lugar acondicionado con templo para hacer distintos pagamentos",
         "ps": "sustantivo"
     },
     {
         "lx": "Nawia",
-        "dn": "Nombre de persona género femenino.",
+        "dn": "Nombre de persona género femenino",
         "ps": "sustantivo"
     },
     {
         "lx": "Nawʉ",
-        "dn": "Árbol frutal (manzana) de tierra fría de color verde su cascara y amarillo su pulpa o mesocarpio.",
+        "dn": "Árbol frutal (manzana) de tierra fría de color verde su cascara y amarillo su pulpa o mesocarpio",
         "ps": "sustantivo"
     },
     {
         "lx": "Názʉro",
-        "dn": "Cuñada (entre mujeres.",
+        "dn": "Cuñada (entre mujeres",
         "ps": "sustantivo"
     },
     {
         "lx": "Ne'ki",
-        "dn": "No, negación.",
+        "dn": "No, negación",
         "ps": "sustantivo"
     },
     {
         "lx": "Neki",
-        "dn": "Posibilidad.",
+        "dn": "Posibilidad",
         "ps": "sustantivo"
     },
     {
         "lx": "Nekʉn",
-        "dn": "Nombre de persona género femenino.",
+        "dn": "Nombre de persona género femenino",
         "ps": "sustantivo"
     },
     {
         "lx": "Nem ʉ",
-        "dn": "cuñado.",
+        "dn": "cuñado",
         "ps": "sustantivo"
     },
     {
         "lx": "Nemʉ",
-        "dn": "Cuñado entre hombres.",
+        "dn": "Cuñado entre hombres",
         "ps": "sustantivo"
     },
     {
         "lx": "Nen",
-        "dn": "Nombre de persona género femenino.",
+        "dn": "Nombre de persona género femenino",
         "ps": "sustantivo"
     },
     {
         "lx": "Nerúngʉma",
-        "dn": "Nombre de persona género masculino.",
+        "dn": "Nombre de persona género masculino",
         "ps": "sustantivo"
     },
     {
         "lx": "Neywin",
-        "dn": "Nombre de persona género femenino.",
+        "dn": "Nombre de persona género femenino",
         "ps": "sustantivo"
     },
     {
         "lx": "Neywʉ",
-        "dn": "ají.",
+        "dn": "ají",
         "ps": "sustantivo"
     },
     {
         "lx": "Ni'kʉ",
-        "dn": "familia cercana hijo (a), hermano (a), madre, padre donde forman parejas y uno de ellos tienen familia de otros padres. Eje. Hijastro, madrasta.",
+        "dn": "familia cercana hijo (a), hermano (a), madre, padre donde forman parejas y uno de ellos tienen familia de otros padres Eje Hijastro, madrasta",
         "ps": "sustantivo"
     },
     {
         "lx": "Niwáwʉrʉ",
-        "dn": "Casta, linaje.",
+        "dn": "Casta, linaje",
         "ps": "sustantivo"
     },
     {
         "lx": "Norey maku",
-        "dn": "Nombre de persona género masculino.",
+        "dn": "Nombre de persona género masculino",
         "ps": "sustantivo"
     },
     {
         "lx": "Nowra",
-        "dn": "Árbol que sirve para teñir el color morado.",
+        "dn": "Árbol que sirve para teñir el color morado",
         "ps": "sustantivo"
     },
     {
         "lx": "Numa'ka",
-        "dn": "Templo sagrado que se ubica en Nabusimake.",
+        "dn": "Templo sagrado que se ubica en Nabusimake",
         "ps": "sustantivo"
     },
     {
         "lx": "Nʉgewʉ",
-        "dn": "Loro.",
+        "dn": "Loro",
         "ps": "sustantivo"
     },
     {
         "lx": "Nʉgowkwʉ",
-        "dn": "Especie de árbol frondoso de clima frio que no produce fruto.",
+        "dn": "Especie de árbol frondoso de clima frio que no produce fruto",
         "ps": "sustantivo"
     },
     {
         "lx": "Nʉgu",
-        "dn": "Sal.",
+        "dn": "Sal",
         "ps": "sustantivo"
     },
     {
         "lx": "Nʉmʉnsa",
-        "dn": "Menstruación, periodo.",
+        "dn": "Menstruación, periodo",
         "ps": "sustantivo"
     },
     {
@@ -2355,22 +2355,22 @@ const palabras = [
     },
     {
         "lx": "Nʉnbo '",
-        "dn": "Leyenda de un ave más grande que el gallinazo, que se llevaba a los hombres cuando no tenían hojas de cocas.",
+        "dn": "Leyenda de un ave más grande que el gallinazo, que se llevaba a los hombres cuando no tenían hojas de cocas",
         "ps": "sustantivo"
     },
     {
         "lx": "Nʉrʉ'",
-        "dn": "Insectos de tierra húmeda y frías, parecido a los gusanos, cuando se toca quedan inmóvil.",
+        "dn": "Insectos de tierra húmeda y frías, parecido a los gusanos, cuando se toca quedan inmóvil",
         "ps": "sustantivo"
     },
     {
         "lx": "Ñame",
-        "dn": "Ñame.",
+        "dn": "Ñame",
         "ps": "sustantivo"
     },
     {
         "lx": "Ñʉnkwa",
-        "dn": "Nombre tradicional.",
+        "dn": "Nombre tradicional",
         "ps": "sustantivo"
     },
     {
@@ -3314,37 +3314,37 @@ const palabras = [
     },
     {
         "lx": "Yaga",
-        "dn": "Ulceras.",
+        "dn": "Ulceras",
         "ps": "sustantivo"
     },
     {
         "lx": "Yanta",
-        "dn": "Llanta.",
+        "dn": "Llanta",
         "ps": "sustantivo"
     },
     {
         "lx": "Yaragua",
-        "dn": "Yaragua.",
+        "dn": "Yaragua",
         "ps": "sustantivo"
     },
     {
         "lx": "Yarinna",
-        "dn": "Clase de Árbol para teñir color morado.",
+        "dn": "Clase de Árbol para teñir color morado",
         "ps": "sustantivo"
     },
     {
         "lx": "Yegwa",
-        "dn": "Yegua.",
+        "dn": "Yegua",
         "ps": "sustantivo"
     },
     {
         "lx": "Yʉ’rkʉnʉ",
-        "dn": "Flojo(a).",
+        "dn": "Flojo(a)",
         "ps": "sustantivo"
     },
     {
         "lx": "Yʉrʉ",
-        "dn": "Flojera.",
+        "dn": "Flojera",
         "ps": "sustantivo"
     },
     {
@@ -3758,34 +3758,107 @@ function VernacularAZ(a, b) {
     // Use toUpperCase() to ignore character casing
     const bandA = a.lx.toUpperCase();
     const bandB = b.lx.toUpperCase();
-  
+
     let comparison = 0;
     if (bandA > bandB) {
-      comparison = 1;
+        comparison = 1;
     } else if (bandA < bandB) {
-      comparison = -1;
+        comparison = -1;
     }
     return comparison * OrderAZ;
-  }
-function orderVerZA(){
-    document.getElementById("btAzNat").hidden="false";
-    document.getElementById("btZaNat").hidden="false";
-    OrderAZ = -1;
-    vervocabulario();
 }
-function orderVerAZ(){
-    document.getElementById("btAzNat").hidden="false";
-    document.getElementById("btZaNat").hidden="false";
+
+function orderVerAZ() {
+
+
     OrderAZ = 1;
     vervocabulario();
 }
+
+function orderVerZA() {
+
+    OrderAZ = -1;
+    vervocabulario();
+}
+
 function vervocabulario() {
-    
-    let a = palabras.sort(VernacularAZ);
+
+    let PalabrasSort = palabras.sort(VernacularAZ);
     const elemento = document.getElementById("contenedorPalabras");
     elemento.innerHTML = "";
 
-    a.forEach(palabra => {
+    PalabrasSort.forEach(palabra => {
+        //Creamos uncontenedor por palabra
+        const nuevaPalabra = document.createElement('div');
+        nuevaPalabra.innerHTML = `
+            <div class="mb-1">
+            <div class="row">
+                <div class="col-auto me-aut fw-bold">${palabra.lx}</div>
+                <div class="col-auto me-aut text-success">${palabra.ps}</div>
+                <div class="col-auto me-aut fst-italic">${palabra.dn}</div>
+            </div>
+            </div>      `
+        elemento.appendChild(nuevaPalabra)
+    })
+}
+
+
+function NationalAZ(a, b) {
+    // Use toUpperCase() to ignore character casing
+    const bandA = a.lx.toUpperCase();
+    const bandB = b.lx.toUpperCase();
+
+    let comparison = 0;
+    if (bandA > bandB) {
+        comparison = 1;
+    } else if (bandA < bandB) {
+        comparison = -1;
+    }
+    return comparison * 1;
+}
+
+
+function orderNatAZ() {
+
+    OrderAZ = 1;
+    vervocabularioNat();
+}
+
+function orderNatZA() {
+    OrderAZ = -1;
+    vervocabularioNat();
+}
+
+function vervocabularioNat() {
+
+    let PalabrasSort = palabras.sort(NationalAZ);
+    const elemento = document.getElementById("contenedorPalabras");
+    elemento.innerHTML = "";
+
+    PalabrasSort.forEach(palabra => {
+        //Creamos uncontenedor por palabra
+        const nuevaPalabra = document.createElement('div');
+        nuevaPalabra.innerHTML = `
+            <div class="mb-1">
+            <div class="row">
+                <div class="col-auto me-aut fw-bold">${palabra.dn}</div>
+                <div class="col-auto me-aut fst-italic">${palabra.lx}</div>
+            </div>
+            </div>      `
+        elemento.appendChild(nuevaPalabra)
+    })
+}
+
+function filtrar(Leter) {
+    let PalabrasSort = palabras.sort(orderVerAZ);
+    const elemento = document.getElementById("contenedorPalabras");
+    elemento.innerHTML = "";
+
+    const filtrado = PalabrasSort.filter(
+        (palabra) => palabra.lx.startsWith(Leter)
+    );
+
+    filtrado.forEach(palabra => {
         //Creamos uncontenedor por palabra
         const nuevaPalabra = document.createElement('div');
         nuevaPalabra.innerHTML = `
