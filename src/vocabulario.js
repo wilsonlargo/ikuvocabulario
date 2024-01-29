@@ -3849,12 +3849,11 @@ function vervocabularioNat() {
     })
 }
 
-function filtrar(Leter) {
-    let PalabrasSort = palabras.sort(orderVerAZ);
+async function filtrar(Leter) {
     const elemento = document.getElementById("contenedorPalabras");
     elemento.innerHTML = "";
 
-    const filtrado = PalabrasSort.filter(
+    const filtrado = palabras.filter(
         (palabra) => palabra.lx.startsWith(Leter)
     );
 
