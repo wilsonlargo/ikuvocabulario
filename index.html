@@ -16,6 +16,7 @@
 
     <script defer src="./js/iniConfig.js" type="module"></script>
     <script src="./src/vocabulario.js"></script>
+    <script src="./src/comandos.js"></script>
 </head>
 <header id="headerMap" class="sticky-top">
     <!-- barra de menu de botones -->
@@ -45,6 +46,21 @@
                     <li class="nav-item" id="btZaVer">
                         <a href="#" class="nav-link text-white" onclick="orderVerZA()">
                             <i class="bi bi-sort-alpha-down-alt"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-white" onclick="orderNatAZ()">ESPAÑOL</a>
+                    </li>
+
+                    <li class="nav-item" id="btAzNat">
+                        <a href="#" class="nav-link text-white" onclick="orderNatAZ()">
+                            <i class="bi bi-sort-alpha-down"></i></a>
+                    </li>
+                    <li class="nav-item" id="btZaNat">
+                        <a href="#" class="nav-link text-white" onclick="orderNatZA()">
+                            <i class="bi bi-sort-alpha-down-alt"></i></a>
+                    </li>
+                                        <li class="nav-item">
+                        <a href="#" class="nav-link text-white" onclick="orderVerAZ()">IKU</a>
                     </li>
                 </ul>
             </div>
