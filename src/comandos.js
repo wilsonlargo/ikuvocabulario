@@ -2,8 +2,11 @@ var OrderAZ;
 var idioma;
 function VernacularAZ(a, b) {
     // Use toUpperCase() to ignore character casing
-    const bandA = a.lx.toUpperCase();
-    const bandB = b.lx.toUpperCase();
+    let bandA
+    let bandB
+
+    bandA = a.lx.toUpperCase();
+    bandB = b.lx.toUpperCase();
 
     let comparison = 0;
     if (bandA > bandB) {
@@ -15,19 +18,28 @@ function VernacularAZ(a, b) {
 }
 
 function orderVerAZ() {
-    idioma=="loc"
+
     OrderAZ = 1;
-    vervocabulario();
+    if (idioma = "loc") {
+        vervocabulario();
+    }
+    else if (idioma = "es") {
+        vervocabularioNat()
+    }
 }
 
 function orderVerZA() {
-    idioma=="loc"
     OrderAZ = -1;
-    vervocabulario();
+    if (idioma = "loc") {
+        vervocabulario();
+    }
+    else {
+        vervocabularioNat()
+    }
 }
 
 function vervocabulario() {
-    idioma="loc"
+    idioma = "loc"
     let PalabrasSort = palabras.sort(VernacularAZ);
     const elemento = document.getElementById("contenedorPalabras");
     elemento.innerHTML = "";
@@ -59,24 +71,24 @@ function NationalAZ(a, b) {
     } else if (bandA < bandB) {
         comparison = -1;
     }
-    return comparison * 1;
+    return comparison * OrderAZ;
 }
 
 
 function orderNatAZ() {
-    idioma="es"
+    idioma = "es"
     OrderAZ = 1;
     vervocabularioNat();
 }
 
 function orderNatZA() {
-    idioma=="es"
+    idioma == "es"
     OrderAZ = -1;
     vervocabularioNat();
 }
 
 function vervocabularioNat() {
-    idioma="es"
+    idioma = "es"
     let PalabrasSort = palabras.sort(NationalAZ);
     const elemento = document.getElementById("contenedorPalabras");
     elemento.innerHTML = "";
@@ -99,7 +111,7 @@ async function filtrar(Leter) {
     const elemento = document.getElementById("contenedorPalabras");
     elemento.innerHTML = "";
     let filtrado;
-    if (idioma=="es") {
+    if (idioma == "es") {
         filtrado = palabras.filter(
             (palabra) => palabra.dn.startsWith(Leter)
         );
@@ -115,7 +127,7 @@ async function filtrar(Leter) {
                 </div>      `
             elemento.appendChild(nuevaPalabra)
         })
-    } else if (idioma="loc") {
+    } else if (idioma = "loc") {
         filtrado = palabras.filter(
             (palabra) => palabra.lx.startsWith(Leter)
         );
