@@ -3841,7 +3841,7 @@ function vervocabularioNat() {
         nuevaPalabra.innerHTML = `
             <div class="mb-1">
             <div class="row">
-                <div class="col-auto me-aut fw-bold">${palabra.dn}</div>
+                <div class="col-auto me-aut fw-bold ms-3">${palabra.dn}</div>
                 <div class="col-auto me-aut fst-italic">${palabra.lx}</div>
             </div>
             </div>      `
