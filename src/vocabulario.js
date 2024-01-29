@@ -3768,10 +3768,14 @@ function VernacularAZ(a, b) {
     return comparison * OrderAZ;
   }
 function orderVerZA(){
+    document.getElementById("btAzNat").hidden="false";
+    document.getElementById("btZaNat").hidden="false";
     OrderAZ = -1;
     vervocabulario();
 }
 function orderVerAZ(){
+    document.getElementById("btAzNat").hidden="false";
+    document.getElementById("btZaNat").hidden="false";
     OrderAZ = 1;
     vervocabulario();
 }
