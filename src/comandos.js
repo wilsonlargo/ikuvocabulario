@@ -150,13 +150,12 @@ async function filtrar(Leter) {
 function buscarPalabra() {
 
     let Texto = document.getElementById("cBuscar").value;
-
     const elemento = document.getElementById("contenedorPalabras");
     elemento.innerHTML = "";
     let filtrado;
     if (idioma == "es") {
         filtrado = palabras.filter(
-            (palabra) => palabra.dn.includes(Texto)
+            (palabra) => palabra.dn.includes(Texto.toLowerCase())
         );
         filtrado.forEach(palabra => {
             //Creamos uncontenedor por palabra
@@ -172,7 +171,7 @@ function buscarPalabra() {
         })
     } else if (idioma = "loc") {
         filtrado = palabras.filter(
-            (palabra) => palabra.lx.includes(Texto)
+            (palabra) => palabra.lx.includes(Texto.toLowerCase())
         );
         filtrado.forEach(palabra => {
             //Creamos uncontenedor por palabra
