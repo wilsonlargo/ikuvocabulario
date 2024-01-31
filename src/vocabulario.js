@@ -22,7 +22,7 @@ const palabras = [
        },
        {
         "lx": "a'chokwa.",
-        "dn": "molino de piedras | materia de piedra usada para triturar materiales de pagamentos.",
+        "dn": "molino de piedras | material de piedra usada para triturar materiales de pagamentos.",
         "ps": "sustantivo"
        },
        {

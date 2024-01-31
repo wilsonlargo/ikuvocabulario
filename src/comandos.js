@@ -187,9 +187,46 @@ function buscarPalabra() {
             elemento.appendChild(nuevaPalabra)
         })
     }
+}
 
+function VerCategorias(categoria){
 
-
-
-
+    let Texto = categoria;
+    const elemento = document.getElementById("contenedorPalabras");
+    elemento.innerHTML = "";
+    let filtrado;
+    if (idioma == "es") {
+        filtrado = palabras.filter(
+            (palabra) => palabra.ps.includes(Texto)
+        );
+        filtrado.forEach(palabra => {
+            //Creamos uncontenedor por palabra
+            const nuevaPalabra = document.createElement('div');
+            nuevaPalabra.innerHTML = `
+                <div class="mb-1">
+                <div class="row">                   
+                    <div class="col-auto me-aut fst-italic">${palabra.dn}</div>
+                    <div class="col-auto me-aut fw-bold ms-3">${palabra.lx}</div>
+                </div>
+                </div>      `
+            elemento.appendChild(nuevaPalabra)
+        })
+    } else if (idioma = "loc") {
+        filtrado = palabras.filter(
+            (palabra) => palabra.ps.includes(Texto)
+        );
+        filtrado.forEach(palabra => {
+            //Creamos uncontenedor por palabra
+            const nuevaPalabra = document.createElement('div');
+            nuevaPalabra.innerHTML = `
+                <div class="mb-1">
+                <div class="row">
+                    <div class="col-auto me-aut fw-bold">${palabra.lx}</div>
+                    <div class="col-auto me-aut text-success">${palabra.ps}</div>
+                    <div class="col-auto me-aut fst-italic ms-3">${palabra.dn}</div>
+                </div>
+                </div>      `
+            elemento.appendChild(nuevaPalabra)
+        })
+    }
 }
