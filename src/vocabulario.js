@@ -3754,7 +3754,1609 @@ const palabras = [
         "lx": "zʉguró",
         "dn": "bastantes, muchos (objetos inanimados)",
         "ps": "adjetivo"
-       }
+       },
     
+    ///////////////////////////////////////////////////////
+    {
+        "lx": "abasamʉ",
+        "dn": "separar, dividir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "abechamʉ",
+        "dn": "afilar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'besamʉ",
+        "dn": "armar, (tejidos)",
+        "ps": "verbo"
+       },
+       {
+        "lx": "abeysamʉ",
+        "dn": "cortar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'bunsamʉ",
+        "dn": "friccionar, moler, manejar.",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'chanamʉ",
+        "dn": "pisotear, golpear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'chukwamʉ",
+        "dn": "lavar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'chwamʉ",
+        "dn": "acondicionar,",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'chunhamʉ",
+        "dn": "sacar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'danamʉ",
+        "dn": "regañar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'disamʉ",
+        "dn": "besar, chupar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'dosamʉ",
+        "dn": "servir (liquido)",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'dʉmʉsamʉ",
+        "dn": "mover, estremecer, sacudir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "agakamʉ",
+        "dn": "acostar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’gakamʉ",
+        "dn": "acostar, diseñar (tejidos)",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'gamʉ",
+        "dn": "tomar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'ga'samʉ",
+        "dn": "sacar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "agosamʉ",
+        "dn": "cargar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "agutanamʉ",
+        "dn": "cansar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "agʉnkwamʉ",
+        "dn": "saber",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'gʉsamʉ",
+        "dn": "trazar,",
+        "ps": "verbo"
+       },
+       {
+        "lx": "agwakamʉ",
+        "dn": "matár",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'kanamʉ",
+        "dn": "gritar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'kichamʉ",
+        "dn": "quitar, arrebatar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'kusamʉ",
+        "dn": "masticar, morder",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'kʉnsamʉ",
+        "dn": "sonar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’mayamʉ",
+        "dn": "anunciar, cantar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’minsamʉ",
+        "dn": "menear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a amʉsesamʉ",
+        "dn": "levantar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ana'tenamʉ",
+        "dn": "mojar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "anizamʉ",
+        "dn": "burlar, bautizar,",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'no'kwamʉ",
+        "dn": "entender, obedecer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "apasamʉ",
+        "dn": "acostar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’pinsamʉ",
+        "dn": "barrer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "apʉsamʉ",
+        "dn": "pelear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'raminsʉn",
+        "dn": "requisar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "aratwisamʉ",
+        "dn": "empujar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "arimʉsamʉ",
+        "dn": "abrazar totalmente",
+        "ps": "verbo"
+       },
+       {
+        "lx": "arichʉsamʉ",
+        "dn": "lerdear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "arukamʉ",
+        "dn": "subir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "arusamʉ",
+        "dn": "alzar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "arunhamʉ",
+        "dn": "pensar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "arʉkʉmʉsamʉ",
+        "dn": "abrazar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a'samʉ",
+        "dn": "escribir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "asayamʉ",
+        "dn": "hablar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "asinkirinamʉ",
+        "dn": "estornudar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "asisamʉ",
+        "dn": "pedir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’swamʉ",
+        "dn": "requemar, quemar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’sʉsamʉ",
+        "dn": "golpear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’sʉrʉsamʉ",
+        "dn": "limpiar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "atakamʉ",
+        "dn": "escoger",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’tamenamʉ",
+        "dn": "pasar por encima",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’tisamʉ",
+        "dn": "borrar, olvidar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’tikamʉ",
+        "dn": "soltar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "atikamʉ",
+        "dn": "desvestir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "atosamʉ",
+        "dn": "agarrar, tocar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’tʉnhamʉ",
+        "dn": "dañar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "awamʉ",
+        "dn": "hacer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "awakamʉ",
+        "dn": "competir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’wakamʉ",
+        "dn": "diseñar, medir, calcular",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’wesamʉ",
+        "dn": "entregar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "awʉrʉsamʉ",
+        "dn": "sacar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’yʉrenamʉ",
+        "dn": "resbalar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’yʉnsamʉ",
+        "dn": "peinar, aplanar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’zanamʉ",
+        "dn": "sentir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’zasisamʉ",
+        "dn": "preguntar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "a’zagichamʉ",
+        "dn": "pasar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "basamʉ",
+        "dn": "repartir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "bechamʉ",
+        "dn": "pintar, convencer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "besamʉ",
+        "dn": "armar, enrollar hilo o lazo",
+        "ps": "verbo"
+       },
+       {
+        "lx": "beysamʉ",
+        "dn": "cortar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "bitisamʉ",
+        "dn": "renovar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "birisamʉ",
+        "dn": "empapar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "bonamʉ",
+        "dn": "nacer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "botesamʉ",
+        "dn": "hervir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "bunsamʉ",
+        "dn": "hilar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "burenamʉ",
+        "dn": "trenzar, hilar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "burisamʉ",
+        "dn": "girar, orbitar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "burinamʉ",
+        "dn": "revolcar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "burusamʉ",
+        "dn": "migajar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chanamʉ",
+        "dn": "llegar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chayamʉ",
+        "dn": "disparar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chonamʉ",
+        "dn": "entrar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "cho’samʉ",
+        "dn": "poner, parar, colocar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chukumamʉ",
+        "dn": "quedar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chume’samʉ",
+        "dn": "parpadear, relampaguear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chunkwamʉ",
+        "dn": "equipar, vestir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chusamʉ",
+        "dn": "dejar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chussamʉ",
+        "dn": "machacar, apisonar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chwamʉ",
+        "dn": "ver, cuidar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chuzanamʉ",
+        "dn": "publicar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chuzʉnhasamʉ",
+        "dn": "mostrar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "chʉnchonamʉ",
+        "dn": "debilitar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "danamʉ",
+        "dn": "regañar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "dinkumamʉ",
+        "dn": "acalambrarse",
+        "ps": "verbo"
+       },
+       {
+        "lx": "dirinamʉ",
+        "dn": "volar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "donamʉ",
+        "dn": "regar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "downamʉ",
+        "dn": "derretirse",
+        "ps": "verbo"
+       },
+       {
+        "lx": "drunamʉ",
+        "dn": "volar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "du’namʉ",
+        "dn": "secar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "dʉmanamʉ",
+        "dn": "mover",
+        "ps": "verbo"
+       },
+       {
+        "lx": "dʉmasamʉ",
+        "dn": "mover",
+        "ps": "verbo"
+       },
+       {
+        "lx": "dʉnkenamʉ",
+        "dn": "grietar, romper",
+        "ps": "verbo"
+       },
+       {
+        "lx": "dʉ’dʉsamʉ",
+        "dn": "desfigurar, deformar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "gakamʉ",
+        "dn": "acostar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "gamʉ",
+        "dn": "comer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "gawamʉ",
+        "dn": "hacer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ga’samʉ",
+        "dn": "mandar, enviar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ga’ʉngawamʉ",
+        "dn": "confesar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ga’yamʉ",
+        "dn": "avisar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "gosamʉ",
+        "dn": "cargar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "gukamʉ",
+        "dn": "coger",
+        "ps": "verbo"
+       },
+       {
+        "lx": "gʉmeysamʉ",
+        "dn": "recochar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "gʉrʉsamʉ",
+        "dn": "romper",
+        "ps": "verbo"
+       },
+       {
+        "lx": "gwakamʉ",
+        "dn": "matar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ibechamʉ",
+        "dn": "untar, empapar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ibunhamʉ",
+        "dn": "hidroponear, germinar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ibunsamʉ",
+        "dn": "girar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "iburisamʉ",
+        "dn": "atornillar, orbitar, lesionar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ichanamʉ",
+        "dn": "pisotear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ichawamʉ",
+        "dn": "pelar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ichayamʉ",
+        "dn": "tirar, arrojar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ichiwisamʉ",
+        "dn": "quitar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ichonamʉ",
+        "dn": "subir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "icho’samʉ",
+        "dn": "colocar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ichukwamʉ",
+        "dn": "lavar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ichunhamʉ",
+        "dn": "subir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ichussamʉ",
+        "dn": "machacar, trillar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "idisamʉ",
+        "dn": "chupar, absorber",
+        "ps": "verbo"
+       },
+       {
+        "lx": "idʉnʉnsamʉ",
+        "dn": "bocinar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "igakamʉ",
+        "dn": "encaramar, sobreponer, superponer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "igamʉ",
+        "dn": "comer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "igawamʉ",
+        "dn": "hacer, realizar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "igekwamʉ",
+        "dn": "estar encima de algo",
+        "ps": "verbo"
+       },
+       {
+        "lx": "igeyrosamʉ",
+        "dn": "morder",
+        "ps": "verbo"
+       },
+       {
+        "lx": "iginsamʉ",
+        "dn": "requemar, quemar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ikawamʉ",
+        "dn": "pagar, cancelar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ikinkumamʉ",
+        "dn": "alcanzar, lograr",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ikosamʉ",
+        "dn": "lamer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "iko’kumamʉ",
+        "dn": "sujetar, someter",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ikwamʉ",
+        "dn": "defender",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ikweamʉ",
+        "dn": "bailar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ikwisamʉ",
+        "dn": "escarbar, aplanar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "imawamʉ",
+        "dn": "oxidar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "imekamʉm",
+        "dn": "distanciar, alejar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "imenamʉ",
+        "dn": "verter, derramar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "iminsamʉ",
+        "dn": "menear, voltear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "imi’samʉ",
+        "dn": "rodear, cercar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "imʉchʉsamʉ",
+        "dn": "contagiar, introducir enterrar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "imʉnkumamʉ",
+        "dn": "ruchar, endurecer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "imʉsamʉ",
+        "dn": "envolver",
+        "ps": "verbo"
+       },
+       {
+        "lx": "inayamʉ",
+        "dn": "crecer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ineysamʉ",
+        "dn": "criar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ino’kwamʉ",
+        "dn": "escuchar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ipakirinamʉ",
+        "dn": "resbalar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ipanamʉ",
+        "dn": "recibir, enchapar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ipusamʉ",
+        "dn": "prender",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ititisamʉ",
+        "dn": "acabar, arruinar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "itwinamʉ",
+        "dn": "rendir, fructificar, avanzar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "itwisamʉ",
+        "dn": "sobar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "iwesamʉ",
+        "dn": "amenazar, alumbrar,",
+        "ps": "verbo"
+       },
+       {
+        "lx": "iwisamʉ",
+        "dn": "terminar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "izʉmenamʉ",
+        "dn": "desbordar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ɉinʉkʉwichamʉ",
+        "dn": "ser ahogado",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ɉinyunamʉ",
+        "dn": "sumergir, ahogar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ɉwa’samʉ",
+        "dn": "conocer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ɉwasamʉ",
+        "dn": "bautizar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ka’gwasamʉ",
+        "dn": "apurar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ka’samʉ",
+        "dn": "anotar, escribir, registrar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kichamʉ",
+        "dn": "esconder",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kicho’samʉ",
+        "dn": "guardar, trampear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kinamʉ",
+        "dn": "desgastar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kinkumamʉ",
+        "dn": "llegar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kizanamʉ",
+        "dn": "ocurrir,suceder",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kosamʉ",
+        "dn": "relamer, lamer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ko’kusamʉ",
+        "dn": "trincar, atar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kurenikamʉ",
+        "dn": "correr",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kuwʉsamʉ",
+        "dn": "enseñar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kʉmʉsamʉ",
+        "dn": "envolver",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kʉnikamʉ",
+        "dn": "adquirir, conseguir, obtener",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kʉníkamʉ",
+        "dn": "trabajar, jornalear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kʉwʉsamʉ,",
+        "dn": "azotar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kʉwʉsámʉ",
+        "dn": "precipitar, arrojar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kʉyamʉ",
+        "dn": "decir, explicar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kwamʉ",
+        "dn": "vivir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kweamʉ",
+        "dn": "bailar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "kwisamʉ",
+        "dn": "cavar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "mawamʉ",
+        "dn": "llorar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "mekamʉ",
+        "dn": "llevar, alejar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "mekʉchonamʉ",
+        "dn": "terminar, finalizar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "me’chanamʉ",
+        "dn": "golpear, zumbar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "me’chonamʉ",
+        "dn": "salir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "me’chʉronamʉ",
+        "dn": "eructar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "me’kawamʉ",
+        "dn": "dar, regalar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "me’kwirinamʉ",
+        "dn": "sacar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "me’mʉchamʉ",
+        "dn": "lesionar, herir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "me’nayamʉ",
+        "dn": "desangrar, emanar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "me’sinkirinamʉ",
+        "dn": "estornudar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "me’wanamʉ",
+        "dn": "vomitar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "mikʉswesamʉ",
+        "dn": "encajar, embutir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "mingakamʉ",
+        "dn": "sobreponer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "mingawamʉ",
+        "dn": "realizar, ejecutar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "minga’kumamʉ",
+        "dn": "temor, asustar, terror",
+        "ps": "verbo"
+       },
+       {
+        "lx": "mingekwamʉ",
+        "dn": "sobrellevar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "minko’seynamʉ",
+        "dn": "hipar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "minrigagukamʉ",
+        "dn": "justiciar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "minwa’kamʉ",
+        "dn": "esperar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "minzanamʉ",
+        "dn": "percibir, percatar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "minzatakamʉ",
+        "dn": "investigar, indagar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "minhineysamʉ",
+        "dn": "criar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "minhunayamʉ",
+        "dn": "visionar, direccionar, andar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "mi’namʉ",
+        "dn": "merodear, vagabundear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "mowsamʉ",
+        "dn": "llorar, oxidar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "mʉrenamʉ",
+        "dn": "faldear, salir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "nakamʉ",
+        "dn": "venir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "nanamʉ",
+        "dn": "ser",
+        "ps": "verbo"
+       },
+       {
+        "lx": "nayamʉ",
+        "dn": "caminar, andar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "nikamʉ",
+        "dn": "trabajar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "no’kwamʉ",
+        "dn": "escuchar, obedecer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "nukamʉ",
+        "dn": "estar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "owmamʉ",
+        "dn": "bañar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "panamʉ",
+        "dn": "extender",
+        "ps": "verbo"
+       },
+       {
+        "lx": "pasamʉ",
+        "dn": "colocar, situar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "peysamʉ",
+        "dn": "moler, triturar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "po’samʉ",
+        "dn": "ahuecar, ahoyar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "puntenamʉ",
+        "dn": "nadar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "purinkumamʉ",
+        "dn": "polvorizar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "pʉkʉnamʉ",
+        "dn": "podrir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "pʉsamʉ- pusʉmʉ",
+        "dn": "florecer, espigar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’bechamʉ",
+        "dn": "untar, empapar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’besamʉ",
+        "dn": "enredar, confundir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’chonamʉ",
+        "dn": "regresar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’ga’samʉ",
+        "dn": "expirar, exhalar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’gukamʉ",
+        "dn": "resolver, solucionar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’ɉokumamʉ",
+        "dn": "sufrir, confundir, aturdir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "rekisamʉ",
+        "dn": "meter algo al fuego, esconder",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’kawamʉ",
+        "dn": "regalar, dar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’kichamʉ",
+        "dn": "distribuir, repartir, partir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’nayamʉ",
+        "dn": "grietar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’nikamʉ",
+        "dn": "rendir, aumentar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’no’kwamʉ",
+        "dn": "entender",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’pasamʉ",
+        "dn": "doblar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’swamʉ",
+        "dn": "quemar, escaldar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’tanukamʉ",
+        "dn": "desquitar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re'tikumamʉ",
+        "dn": "desmayar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’wechamʉ",
+        "dn": "partir, repartir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’wirinamʉ",
+        "dn": "partir, reventar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’wʉnhamʉ",
+        "dn": "vomitar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "re’wʉsamʉ",
+        "dn": "rascar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "rigamʉ",
+        "dn": "consumir, picar, punzar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "riguzanamʉ",
+        "dn": "amar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "rigʉnchonamʉ",
+        "dn": "arrepentir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "rinhapʉsamʉ",
+        "dn": "pelear, combatir, reñir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "rimasayamʉ",
+        "dn": "dialogar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "sanamʉ",
+        "dn": "comprar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "semamʉ",
+        "dn": "reír",
+        "ps": "verbo"
+       },
+       {
+        "lx": "senanamʉ",
+        "dn": "vigilar, patrullar, aguaitar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "seyminchanamʉ",
+        "dn": "desmayar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "seyre’samʉ",
+        "dn": "afamar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "sey ʉnsamʉ",
+        "dn": "vanagloriar, festejar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "sisamʉ",
+        "dn": "preguntar, pedir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "sʉronamʉ",
+        "dn": "rodar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "swamʉ",
+        "dn": "quemar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "shʉ wisamʉ",
+        "dn": "ventosear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "takamʉ",
+        "dn": "buscar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tanamʉ",
+        "dn": "dañar, afectar, vulnerar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tanʉsamʉ",
+        "dn": "tranquilizar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ta’nigawamʉ (tánigow-awamʉ)",
+        "dn": "prestar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tesamʉ",
+        "dn": "acabar, liquidar, matar, destruir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tikamʉ",
+        "dn": "soltar, desenrollar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tikumamʉ",
+        "dn": "finalizar, acabar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tinpanamʉ",
+        "dn": "restringir, impedir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tinsamʉ",
+        "dn": "acabar, desvalorar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tinhʉsamʉ",
+        "dn": "recuperar, fortalecer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tissamʉ",
+        "dn": "terminar, acabar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tosamʉ",
+        "dn": "agarrar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tʉgʉnsamʉ",
+        "dn": "encontrar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tʉnhamʉ",
+        "dn": "perjudicar, afectar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tʉrʉsamʉ",
+        "dn": "romper, recoger (maíz)",
+        "ps": "verbo"
+       },
+       {
+        "lx": "tʉsamʉ",
+        "dn": "agriar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "twirsamʉ",
+        "dn": "confundir, intricar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ukwamʉ",
+        "dn": "salvar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "unakamʉ",
+        "dn": "traer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "unayamʉ",
+        "dn": "pasear, andar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "uyunamʉ",
+        "dn": "bajar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "uzatakamʉ",
+        "dn": "problematizar, dificultar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "uzoyamʉ",
+        "dn": "llevar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ʉgawiamʉ",
+        "dn": "instruir, enseñar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ʉnkwamʉ",
+        "dn": "defender",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ʉnkʉnikamʉ",
+        "dn": "trabajar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ʉnkʉyusamʉ",
+        "dn": "meter",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ʉnmawamʉ",
+        "dn": "llorar, sollozar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ʉnpasamʉ",
+        "dn": "ordenar, aparejar, acomodar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ʉnpesamʉ",
+        "dn": "comenzar, iniciar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "ʉnpesamʉ",
+        "dn": "empesar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "wagawamʉ",
+        "dn": "desyerbar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "wasamʉ",
+        "dn": "perseguir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "wa’kamʉ",
+        "dn": "ver, mirar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "wa’misamʉ",
+        "dn": "dañar, deteriorar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "wa’namʉ",
+        "dn": "caer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "wichamʉ",
+        "dn": "morir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "winamʉ",
+        "dn": "hinchar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "wintosamʉ",
+        "dn": "agarrar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "witesamʉ",
+        "dn": "botar, tirar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "wʉnhamʉ",
+        "dn": "vomitar, nausear",
+        "ps": "verbo"
+       },
+       {
+        "lx": "wʉrʉsamʉ",
+        "dn": "halar, jalar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "wʉsamʉ",
+        "dn": "tumbar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "yamʉ",
+        "dn": "leer, decir, recitar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "yunamʉ",
+        "dn": "bajar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "zachayamʉ",
+        "dn": "disparar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "zagamʉ",
+        "dn": "asaltar, robar, hurtar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "zamayamʉ",
+        "dn": "cantar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "zanamʉ",
+        "dn": "ocurrir, suceder, pasar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "zanosamʉ",
+        "dn": "olfatear, aspirar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "zapʉsamʉ",
+        "dn": "pelear, combatir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "zasanamʉ",
+        "dn": "pagar, retribuir",
+        "ps": "verbo"
+       },
+       {
+        "lx": "zatakamʉ",
+        "dn": "proveer, abastecer",
+        "ps": "verbo"
+       },
+       {
+        "lx": "za'kinukamʉ",
+        "dn": "nombrar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "zusamʉ",
+        "dn": "arrojar, tirar",
+        "ps": "verbo"
+       },
+       {
+        "lx": "zú’sʉsamʉ",
+        "dn": "reducir, achicar",
+        "ps": "verbo"
+       }
+
     
     ]
