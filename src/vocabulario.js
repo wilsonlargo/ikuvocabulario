@@ -3898,7 +3898,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "a amʉsesamʉ",
+        "lx": "amʉsesamʉ",
         "dn": "levantar",
         "ps": "verbo"
        },
