@@ -6,7 +6,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "a’buru",
+        "lx": "a'buru",
         "dn": "material tradicional.",
         "ps": "sustantivo"
        },
@@ -16,7 +16,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "a’chokwa",
+        "lx": "a'chokwa",
         "dn": "piedra usado en el matrimonio.",
         "ps": "sustantivo"
        },
@@ -26,7 +26,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "a’chokwʉre’ba",
+        "lx": "a'chokwʉre'ba",
         "dn": "nombre de laguna.",
         "ps": "sustantivo"
        },
@@ -36,7 +36,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "a’dowri",
+        "lx": "a'dowri",
         "dn": "rocas, cascajos, gravas.",
         "ps": "sustantivo"
        },
@@ -51,12 +51,12 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "a’kumʉkʉnʉ",
+        "lx": "a'kumʉkʉnʉ",
         "dn": "letra",
         "ps": "sustantivo"
        },
        {
-        "lx": "a’kumʉkʉnʉ",
+        "lx": "a'kumʉkʉnʉ",
         "dn": "letras.",
         "ps": "sustantivo"
        },
@@ -81,7 +81,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "a’kʉrʉ",
+        "lx": "a'kʉrʉ",
         "dn": "insecto (grillo).",
         "ps": "sustantivo"
        },
@@ -91,12 +91,12 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "a’mia",
+        "lx": "a'mia",
         "dn": "mujer",
         "ps": "sustantivo"
        },
        {
-        "lx": "a’misinʉ",
+        "lx": "a'misinʉ",
         "dn": "madrina de un varón",
         "ps": "sustantivo"
        },
@@ -106,7 +106,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "a’nʉ",
+        "lx": "a'nʉ",
         "dn": "piedra.",
         "ps": "sustantivo"
        },
@@ -116,7 +116,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "a’sʉ",
+        "lx": "a'sʉ",
         "dn": "nalgas, glúteos",
         "ps": "sustantivo"
        },
@@ -161,7 +161,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "a’zʉkʉnʉ",
+        "lx": "a'zʉkʉnʉ",
         "dn": "alfabeto.",
         "ps": "sustantivo"
        },
@@ -226,7 +226,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "ako’nʉ",
+        "lx": "ako'nʉ",
         "dn": "guarumo.",
         "ps": "sustantivo"
        },
@@ -296,7 +296,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "aná’nuga",
+        "lx": "aná'nuga",
         "dn": "animal.",
         "ps": "sustantivo"
        },
@@ -446,7 +446,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "awʉ’",
+        "lx": "awʉ'",
         "dn": "yerno, nuera.",
         "ps": "sustantivo"
        },
@@ -526,7 +526,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "bo’",
+        "lx": "bo'",
         "dn": "hamaca.",
         "ps": "sustantivo"
        },
@@ -561,7 +561,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "buní’gʉmʉ",
+        "lx": "buní'gʉmʉ",
         "dn": "problema, dificultad.",
         "ps": "sustantivo"
        },
@@ -646,7 +646,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "cha’go",
+        "lx": "cha'go",
         "dn": "tucán",
         "ps": "sustantivo"
        },
@@ -671,7 +671,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "cho’kutiko",
+        "lx": "cho'kutiko",
         "dn": "insecto o escarabajo",
         "ps": "sustantivo"
        },
@@ -711,7 +711,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "dero’si",
+        "lx": "dero'si",
         "dn": "pega pega (hierba)",
         "ps": "sustantivo"
        },
@@ -756,12 +756,12 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "do’mʉriwa",
+        "lx": "do'mʉriwa",
         "dn": "mar donde hacen pagamento.",
         "ps": "sustantivo"
        },
        {
-        "lx": "dumia’zari",
+        "lx": "dumia'zari",
         "dn": "hormiga brava (hormiga soldado)",
         "ps": "sustantivo"
        },
@@ -836,32 +836,32 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "ga’gonuga",
+        "lx": "ga'gonuga",
         "dn": "oración",
         "ps": "sustantivo"
        },
        {
-        "lx": "ga’kʉnamʉ",
+        "lx": "ga'kʉnamʉ",
         "dn": "palabra",
         "ps": "sustantivo"
        },
        {
-        "lx": "ga’mʉke",
+        "lx": "ga'mʉke",
         "dn": "nombre de lugar – pueblo",
         "ps": "sustantivo"
        },
        {
-        "lx": "ga’nʉ",
+        "lx": "ga'nʉ",
         "dn": "garganta",
         "ps": "sustantivo"
        },
        {
-        "lx": "ga’nʉkʉtʉ",
+        "lx": "ga'nʉkʉtʉ",
         "dn": "cuello",
         "ps": "sustantivo"
        },
        {
-        "lx": "gà’zʉwa",
+        "lx": "gà'zʉwa",
         "dn": "afijos",
         "ps": "sustantivo"
        },
@@ -886,7 +886,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "gama’ko",
+        "lx": "gama'ko",
         "dn": "rana, sapos pequeños de tierra fría.",
         "ps": "sustantivo"
        },
@@ -906,7 +906,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "gatinko’ku",
+        "lx": "gatinko'ku",
         "dn": "coxis -rabadilla",
         "ps": "sustantivo"
        },
@@ -931,7 +931,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "gey uru’kwin",
+        "lx": "gey uru'kwin",
         "dn": "(nombre tradicional de la persona)",
         "ps": "sustantivo"
        },
@@ -941,7 +941,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "gi’gi",
+        "lx": "gi'gi",
         "dn": "sonajas de cascabel.",
         "ps": "sustantivo"
        },
@@ -956,7 +956,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "go’ɉiri",
+        "lx": "go'ɉiri",
         "dn": "columna",
         "ps": "sustantivo"
        },
@@ -996,7 +996,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "gʉcha’",
+        "lx": "gʉcha'",
         "dn": "cuerpo.",
         "ps": "sustantivo"
        },
@@ -1031,7 +1031,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "gwi’",
+        "lx": "gwi'",
         "dn": "(pared tejido con caña brava.)",
         "ps": "sustantivo"
        },
@@ -1066,12 +1066,12 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "i’kʉka",
+        "lx": "i'kʉka",
         "dn": "vocabularios",
         "ps": "sustantivo"
        },
        {
-        "lx": "i’ngwi",
+        "lx": "i'ngwi",
         "dn": "uno",
         "ps": "sustantivo"
        },
@@ -1276,7 +1276,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "ɉecho’",
+        "lx": "ɉecho'",
         "dn": "acequia",
         "ps": "sustantivo"
        },
@@ -1321,12 +1321,12 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "ɉo’",
+        "lx": "ɉo'",
         "dn": "rabo",
         "ps": "sustantivo"
        },
        {
-        "lx": "ɉo’sa",
+        "lx": "ɉo'sa",
         "dn": "caracol pala",
         "ps": "sustantivo"
        },
@@ -1371,7 +1371,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "ɉuru’si",
+        "lx": "ɉuru'si",
         "dn": "bejuco enredadora",
         "ps": "sustantivo"
        },
@@ -1391,12 +1391,12 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "ɉwano’swi",
+        "lx": "ɉwano'swi",
         "dn": "nombre de lugar – pueblo",
         "ps": "sustantivo"
        },
        {
-        "lx": "ɉwiku’",
+        "lx": "ɉwiku'",
         "dn": "medio día",
         "ps": "sustantivo"
        },
@@ -1406,42 +1406,42 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "ka’",
+        "lx": "ka'",
         "dn": "tierra",
         "ps": "sustantivo"
        },
        {
-        "lx": "ka’dámiru",
+        "lx": "ka'dámiru",
         "dn": "parte de una pared de bareques.",
         "ps": "sustantivo"
        },
        {
-        "lx": "ka’go",
+        "lx": "ka'go",
         "dn": "enfermedades del cultivo - hongo",
         "ps": "sustantivo"
        },
        {
-        "lx": "ka’icha",
+        "lx": "ka'icha",
         "dn": "frijol de tierra, sus frutos se dan dentro de la tierra.",
         "ps": "sustantivo"
        },
        {
-        "lx": "ka’ɉwarachʉ",
+        "lx": "ka'ɉwarachʉ",
         "dn": "diente de león",
         "ps": "sustantivo"
        },
        {
-        "lx": "ka’kʉcha",
+        "lx": "ka'kʉcha",
         "dn": "cucaracha grande",
         "ps": "sustantivo"
        },
        {
-        "lx": "ka’poti",
+        "lx": "ka'poti",
         "dn": "cueva",
         "ps": "sustantivo"
        },
        {
-        "lx": "ka’sira",
+        "lx": "ka'sira",
         "dn": "hierba de teñir",
         "ps": "sustantivo"
        },
@@ -1541,7 +1541,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "korí’gʉnʉ",
+        "lx": "korí'gʉnʉ",
         "dn": "lengua",
         "ps": "sustantivo"
        },
@@ -1571,7 +1571,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "ku’ɉinʉ",
+        "lx": "ku'ɉinʉ",
         "dn": "faja",
         "ps": "sustantivo"
        },
@@ -1631,7 +1631,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "kʉcho’",
+        "lx": "kʉcho'",
         "dn": "trampa",
         "ps": "sustantivo"
        },
@@ -1691,7 +1691,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "kʉnko’sa",
+        "lx": "kʉnko'sa",
         "dn": "tronco de madera.",
         "ps": "sustantivo"
        },
@@ -1771,27 +1771,27 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "kwi’",
+        "lx": "kwi'",
         "dn": "ala-hombro.",
         "ps": "sustantivo"
        },
        {
-        "lx": "kwi’darʉ",
+        "lx": "kwi'darʉ",
         "dn": "zancudo.",
         "ps": "sustantivo"
        },
        {
-        "lx": "kwi’ɉumaka",
+        "lx": "kwi'ɉumaka",
         "dn": "ardilla.",
         "ps": "sustantivo"
        },
        {
-        "lx": "kwi’ma",
+        "lx": "kwi'ma",
         "dn": "joven.",
         "ps": "sustantivo"
        },
        {
-        "lx": "kwi’magwe",
+        "lx": "kwi'magwe",
         "dn": "relámpago.",
         "ps": "sustantivo"
        },
@@ -1826,12 +1826,12 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "ma’keywa",
+        "lx": "ma'keywa",
         "dn": "cuatro.",
         "ps": "sustantivo"
        },
        {
-        "lx": "ma’kinbiru",
+        "lx": "ma'kinbiru",
         "dn": "comilla.",
         "ps": "sustantivo"
        },
@@ -1956,7 +1956,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "mi’",
+        "lx": "mi'",
         "dn": "batata o patata.",
         "ps": "sustantivo"
        },
@@ -2021,7 +2021,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "mowgame’",
+        "lx": "mowgame'",
         "dn": "duda.",
         "ps": "sustantivo"
        },
@@ -2101,7 +2101,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "mʉna’",
+        "lx": "mʉna'",
         "dn": "ombligo.",
         "ps": "sustantivo"
        },
@@ -2166,7 +2166,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "mʉro’tʉ",
+        "lx": "mʉro'tʉ",
         "dn": "palmas de tierra fría.",
         "ps": "sustantivo"
        },
@@ -2241,7 +2241,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "nawa’ka",
+        "lx": "nawa'ka",
         "dn": "sitio sagrado, lugar acondicionado con templo para hacer distintos. pagamentos.",
         "ps": "sustantivo"
        },
@@ -2411,7 +2411,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "osʉ’nkʉnʉ",
+        "lx": "osʉ'nkʉnʉ",
         "dn": "rabioso",
         "ps": "sustantivo"
        },
@@ -2676,7 +2676,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "seywa’ka",
+        "lx": "seywa'ka",
         "dn": "media noche",
         "ps": "sustantivo"
        },
@@ -2956,7 +2956,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "tinzi’na",
+        "lx": "tinzi'na",
         "dn": "flor",
         "ps": "sustantivo"
        },
@@ -3061,7 +3061,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "udu’",
+        "lx": "udu'",
         "dn": "sobrante espeso de un fermento",
         "ps": "sustantivo"
        },
@@ -3076,7 +3076,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "umi’",
+        "lx": "umi'",
         "dn": "casa redonda",
         "ps": "sustantivo"
        },
@@ -3141,12 +3141,12 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "urí’gʉnʉ",
+        "lx": "urí'gʉnʉ",
         "dn": "especie de planta similar a la caña brava pero su crecimiento es más pequeño",
         "ps": "sustantivo"
        },
        {
-        "lx": "urí’gʉnʉtʉɉʉ",
+        "lx": "urí'gʉnʉtʉɉʉ",
         "dn": "es una clase de gacelas (loche)",
         "ps": "sustantivo"
        },
@@ -3211,7 +3211,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "ʉntá’nuga",
+        "lx": "ʉntá'nuga",
         "dn": "antónimo",
         "ps": "sustantivo"
        },
@@ -3306,7 +3306,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "wirako’ku",
+        "lx": "wirako'ku",
         "dn": "estrellas",
         "ps": "sustantivo"
        },
@@ -3341,7 +3341,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "yʉ’rkʉnʉ",
+        "lx": "yʉ'rkʉnʉ",
         "dn": "flojo(a).",
         "ps": "sustantivo"
        },
@@ -3351,7 +3351,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "za’kigwákʉnʉ",
+        "lx": "za'kigwákʉnʉ",
         "dn": "sustantivo (sintagma nominal)",
         "ps": "sustantivo"
        },
@@ -3381,7 +3381,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "zakʉre’gwákʉnʉ",
+        "lx": "zakʉre'gwákʉnʉ",
         "dn": "pronombres personales",
         "ps": "sustantivo"
        },
@@ -3391,7 +3391,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "zaré’zʉwa",
+        "lx": "zaré'zʉwa",
         "dn": "sílaba",
         "ps": "sustantivo"
        },
@@ -3401,7 +3401,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "zarinta’tʉ",
+        "lx": "zarinta'tʉ",
         "dn": "hoja seca de guineo",
         "ps": "sustantivo"
        },
@@ -3441,7 +3441,7 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "zi’zi",
+        "lx": "zi'zi",
         "dn": "paja cortadera",
         "ps": "sustantivo"
        },
@@ -3451,12 +3451,12 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "ziɉu’",
+        "lx": "ziɉu'",
         "dn": "mochila (pequeña) de guardar coca",
         "ps": "sustantivo"
        },
        {
-        "lx": "ziko’",
+        "lx": "ziko'",
         "dn": "insecto similar a la libélula, chizas",
         "ps": "sustantivo"
        },
@@ -3476,12 +3476,12 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "zizu’",
+        "lx": "zizu'",
         "dn": "nuche",
         "ps": "sustantivo"
        },
        {
-        "lx": "zu’gwe",
+        "lx": "zu'gwe",
         "dn": "cuñada(o) de hombre a mujer – mujer a hombre",
         "ps": "sustantivo"
        },
@@ -3491,12 +3491,12 @@ const palabras = [
         "ps": "sustantivo"
        },
        {
-        "lx": "zʉro’",
+        "lx": "zʉro'",
         "dn": "cuñada (entre el género femenino)",
         "ps": "sustantivo"
        },
        {
-        "lx": "zwa’ka",
+        "lx": "zwa'ka",
         "dn": "hoja utilizada para envolver materiales tradicionales",
         "ps": "sustantivo"
        },
@@ -3506,7 +3506,7 @@ const palabras = [
         "ps": "adjetivo"
        },
        {
-        "lx": "awʉ’",
+        "lx": "awʉ'",
         "dn": "pequeño",
         "ps": "adjetivo"
        },
@@ -3736,12 +3736,12 @@ const palabras = [
         "ps": "adjetivo"
        },
        {
-        "lx": "ze’",
+        "lx": "ze'",
         "dn": "rojizo",
         "ps": "adjetivo"
        },
        {
-        "lx": "zi’",
+        "lx": "zi'",
         "dn": "rojo",
         "ps": "adjetivo"
        },
@@ -3828,7 +3828,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "a’gakamʉ",
+        "lx": "a'gakamʉ",
         "dn": "acostar, diseñar (tejidos)",
         "ps": "verbo"
        },
@@ -3888,12 +3888,12 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "a’mayamʉ",
+        "lx": "a'mayamʉ",
         "dn": "anunciar, cantar",
         "ps": "verbo"
        },
        {
-        "lx": "a’minsamʉ",
+        "lx": "a'minsamʉ",
         "dn": "menear",
         "ps": "verbo"
        },
@@ -3923,7 +3923,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "a’pinsamʉ",
+        "lx": "a'pinsamʉ",
         "dn": "barrer",
         "ps": "verbo"
        },
@@ -3993,17 +3993,17 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "a’swamʉ",
+        "lx": "a'swamʉ",
         "dn": "requemar, quemar",
         "ps": "verbo"
        },
        {
-        "lx": "a’sʉsamʉ",
+        "lx": "a'sʉsamʉ",
         "dn": "golpear",
         "ps": "verbo"
        },
        {
-        "lx": "a’sʉrʉsamʉ",
+        "lx": "a'sʉrʉsamʉ",
         "dn": "limpiar",
         "ps": "verbo"
        },
@@ -4013,17 +4013,17 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "a’tamenamʉ",
+        "lx": "a'tamenamʉ",
         "dn": "pasar por encima",
         "ps": "verbo"
        },
        {
-        "lx": "a’tisamʉ",
+        "lx": "a'tisamʉ",
         "dn": "borrar, olvidar",
         "ps": "verbo"
        },
        {
-        "lx": "a’tikamʉ",
+        "lx": "a'tikamʉ",
         "dn": "soltar",
         "ps": "verbo"
        },
@@ -4038,7 +4038,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "a’tʉnhamʉ",
+        "lx": "a'tʉnhamʉ",
         "dn": "dañar",
         "ps": "verbo"
        },
@@ -4053,12 +4053,12 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "a’wakamʉ",
+        "lx": "a'wakamʉ",
         "dn": "diseñar, medir, calcular",
         "ps": "verbo"
        },
        {
-        "lx": "a’wesamʉ",
+        "lx": "a'wesamʉ",
         "dn": "entregar",
         "ps": "verbo"
        },
@@ -4068,27 +4068,27 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "a’yʉrenamʉ",
+        "lx": "a'yʉrenamʉ",
         "dn": "resbalar",
         "ps": "verbo"
        },
        {
-        "lx": "a’yʉnsamʉ",
+        "lx": "a'yʉnsamʉ",
         "dn": "peinar, aplanar",
         "ps": "verbo"
        },
        {
-        "lx": "a’zanamʉ",
+        "lx": "a'zanamʉ",
         "dn": "sentir",
         "ps": "verbo"
        },
        {
-        "lx": "a’zasisamʉ",
+        "lx": "a'zasisamʉ",
         "dn": "preguntar",
         "ps": "verbo"
        },
        {
-        "lx": "a’zagichamʉ",
+        "lx": "a'zagichamʉ",
         "dn": "pasar",
         "ps": "verbo"
        },
@@ -4173,7 +4173,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "cho’samʉ",
+        "lx": "cho'samʉ",
         "dn": "poner, parar, colocar",
         "ps": "verbo"
        },
@@ -4183,7 +4183,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "chume’samʉ",
+        "lx": "chume'samʉ",
         "dn": "parpadear, relampaguear",
         "ps": "verbo"
        },
@@ -4253,7 +4253,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "du’namʉ",
+        "lx": "du'namʉ",
         "dn": "secar",
         "ps": "verbo"
        },
@@ -4273,7 +4273,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "dʉ’dʉsamʉ",
+        "lx": "dʉ'dʉsamʉ",
         "dn": "desfigurar, deformar",
         "ps": "verbo"
        },
@@ -4293,17 +4293,17 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "ga’samʉ",
+        "lx": "ga'samʉ",
         "dn": "mandar, enviar",
         "ps": "verbo"
        },
        {
-        "lx": "ga’ʉngawamʉ",
+        "lx": "ga'ʉngawamʉ",
         "dn": "confesar",
         "ps": "verbo"
        },
        {
-        "lx": "ga’yamʉ",
+        "lx": "ga'yamʉ",
         "dn": "avisar",
         "ps": "verbo"
        },
@@ -4378,7 +4378,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "icho’samʉ",
+        "lx": "icho'samʉ",
         "dn": "colocar",
         "ps": "verbo"
        },
@@ -4453,7 +4453,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "iko’kumamʉ",
+        "lx": "iko'kumamʉ",
         "dn": "sujetar, someter",
         "ps": "verbo"
        },
@@ -4493,7 +4493,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "imi’samʉ",
+        "lx": "imi'samʉ",
         "dn": "rodear, cercar",
         "ps": "verbo"
        },
@@ -4523,7 +4523,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "ino’kwamʉ",
+        "lx": "ino'kwamʉ",
         "dn": "escuchar",
         "ps": "verbo"
        },
@@ -4583,7 +4583,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "ɉwa’samʉ",
+        "lx": "ɉwa'samʉ",
         "dn": "conocer",
         "ps": "verbo"
        },
@@ -4593,12 +4593,12 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "ka’gwasamʉ",
+        "lx": "ka'gwasamʉ",
         "dn": "apurar",
         "ps": "verbo"
        },
        {
-        "lx": "ka’samʉ",
+        "lx": "ka'samʉ",
         "dn": "anotar, escribir, registrar",
         "ps": "verbo"
        },
@@ -4608,7 +4608,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "kicho’samʉ",
+        "lx": "kicho'samʉ",
         "dn": "guardar, trampear",
         "ps": "verbo"
        },
@@ -4633,7 +4633,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "ko’kusamʉ",
+        "lx": "ko'kusamʉ",
         "dn": "trincar, atar",
         "ps": "verbo"
        },
@@ -4708,47 +4708,47 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "me’chanamʉ",
+        "lx": "me'chanamʉ",
         "dn": "golpear, zumbar",
         "ps": "verbo"
        },
        {
-        "lx": "me’chonamʉ",
+        "lx": "me'chonamʉ",
         "dn": "salir",
         "ps": "verbo"
        },
        {
-        "lx": "me’chʉronamʉ",
+        "lx": "me'chʉronamʉ",
         "dn": "eructar",
         "ps": "verbo"
        },
        {
-        "lx": "me’kawamʉ",
+        "lx": "me'kawamʉ",
         "dn": "dar, regalar",
         "ps": "verbo"
        },
        {
-        "lx": "me’kwirinamʉ",
+        "lx": "me'kwirinamʉ",
         "dn": "sacar",
         "ps": "verbo"
        },
        {
-        "lx": "me’mʉchamʉ",
+        "lx": "me'mʉchamʉ",
         "dn": "lesionar, herir",
         "ps": "verbo"
        },
        {
-        "lx": "me’nayamʉ",
+        "lx": "me'nayamʉ",
         "dn": "desangrar, emanar",
         "ps": "verbo"
        },
        {
-        "lx": "me’sinkirinamʉ",
+        "lx": "me'sinkirinamʉ",
         "dn": "estornudar",
         "ps": "verbo"
        },
        {
-        "lx": "me’wanamʉ",
+        "lx": "me'wanamʉ",
         "dn": "vomitar",
         "ps": "verbo"
        },
@@ -4768,7 +4768,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "minga’kumamʉ",
+        "lx": "minga'kumamʉ",
         "dn": "temor, asustar, terror",
         "ps": "verbo"
        },
@@ -4778,7 +4778,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "minko’seynamʉ",
+        "lx": "minko'seynamʉ",
         "dn": "hipar",
         "ps": "verbo"
        },
@@ -4788,7 +4788,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "minwa’kamʉ",
+        "lx": "minwa'kamʉ",
         "dn": "esperar",
         "ps": "verbo"
        },
@@ -4813,7 +4813,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "mi’namʉ",
+        "lx": "mi'namʉ",
         "dn": "merodear, vagabundear",
         "ps": "verbo"
        },
@@ -4848,7 +4848,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "no’kwamʉ",
+        "lx": "no'kwamʉ",
         "dn": "escuchar, obedecer",
         "ps": "verbo"
        },
@@ -4878,7 +4878,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "po’samʉ",
+        "lx": "po'samʉ",
         "dn": "ahuecar, ahoyar",
         "ps": "verbo"
        },
@@ -4903,32 +4903,32 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "re’bechamʉ",
+        "lx": "re'bechamʉ",
         "dn": "untar, empapar",
         "ps": "verbo"
        },
        {
-        "lx": "re’besamʉ",
+        "lx": "re'besamʉ",
         "dn": "enredar, confundir",
         "ps": "verbo"
        },
        {
-        "lx": "re’chonamʉ",
+        "lx": "re'chonamʉ",
         "dn": "regresar",
         "ps": "verbo"
        },
        {
-        "lx": "re’ga’samʉ",
+        "lx": "re'ga'samʉ",
         "dn": "expirar, exhalar",
         "ps": "verbo"
        },
        {
-        "lx": "re’gukamʉ",
+        "lx": "re'gukamʉ",
         "dn": "resolver, solucionar",
         "ps": "verbo"
        },
        {
-        "lx": "re’ɉokumamʉ",
+        "lx": "re'ɉokumamʉ",
         "dn": "sufrir, confundir, aturdir",
         "ps": "verbo"
        },
@@ -4938,42 +4938,42 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "re’kawamʉ",
+        "lx": "re'kawamʉ",
         "dn": "regalar, dar",
         "ps": "verbo"
        },
        {
-        "lx": "re’kichamʉ",
+        "lx": "re'kichamʉ",
         "dn": "distribuir, repartir, partir",
         "ps": "verbo"
        },
        {
-        "lx": "re’nayamʉ",
+        "lx": "re'nayamʉ",
         "dn": "grietar",
         "ps": "verbo"
        },
        {
-        "lx": "re’nikamʉ",
+        "lx": "re'nikamʉ",
         "dn": "rendir, aumentar",
         "ps": "verbo"
        },
        {
-        "lx": "re’no’kwamʉ",
+        "lx": "re'no'kwamʉ",
         "dn": "entender",
         "ps": "verbo"
        },
        {
-        "lx": "re’pasamʉ",
+        "lx": "re'pasamʉ",
         "dn": "doblar",
         "ps": "verbo"
        },
        {
-        "lx": "re’swamʉ",
+        "lx": "re'swamʉ",
         "dn": "quemar, escaldar",
         "ps": "verbo"
        },
        {
-        "lx": "re’tanukamʉ",
+        "lx": "re'tanukamʉ",
         "dn": "desquitar",
         "ps": "verbo"
        },
@@ -4983,22 +4983,22 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "re’wechamʉ",
+        "lx": "re'wechamʉ",
         "dn": "partir, repartir",
         "ps": "verbo"
        },
        {
-        "lx": "re’wirinamʉ",
+        "lx": "re'wirinamʉ",
         "dn": "partir, reventar",
         "ps": "verbo"
        },
        {
-        "lx": "re’wʉnhamʉ",
+        "lx": "re'wʉnhamʉ",
         "dn": "vomitar",
         "ps": "verbo"
        },
        {
-        "lx": "re’wʉsamʉ",
+        "lx": "re'wʉsamʉ",
         "dn": "rascar",
         "ps": "verbo"
        },
@@ -5048,7 +5048,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "seyre’samʉ",
+        "lx": "seyre'samʉ",
         "dn": "afamar",
         "ps": "verbo"
        },
@@ -5093,7 +5093,7 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "ta’nigawamʉ (tánigow-awamʉ)",
+        "lx": "ta'nigawamʉ (tánigow-awamʉ)",
         "dn": "prestar",
         "ps": "verbo"
        },
@@ -5243,17 +5243,17 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "wa’kamʉ",
+        "lx": "wa'kamʉ",
         "dn": "ver, mirar",
         "ps": "verbo"
        },
        {
-        "lx": "wa’misamʉ",
+        "lx": "wa'misamʉ",
         "dn": "dañar, deteriorar",
         "ps": "verbo"
        },
        {
-        "lx": "wa’namʉ",
+        "lx": "wa'namʉ",
         "dn": "caer",
         "ps": "verbo"
        },
@@ -5353,9 +5353,19 @@ const palabras = [
         "ps": "verbo"
        },
        {
-        "lx": "zú’sʉsamʉ",
+        "lx": "zú'sʉsamʉ",
         "dn": "reducir, achicar",
         "ps": "verbo"
+       },
+       {
+        "lx": "ɉunʉ",
+        "dn": "querida, moza, amante",
+        "ps": "sustantivo"
+       },
+       {
+        "lx": "ɉuzu",
+        "dn": "epilepsia",
+        "ps": "sustantivo"
        }
 
     
